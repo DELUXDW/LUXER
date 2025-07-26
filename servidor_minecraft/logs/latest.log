@@ -221,3 +221,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Jul2025 21:08:18.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
 [26Jul2025 21:08:18.474] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
 [26Jul2025 21:08:22.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> XD
+[26Jul2025 21:12:04.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has completed the challenge [Hot Tourist Destinations]
+[26Jul2025 21:12:28.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [A Terrible Fortress]
+[26Jul2025 21:14:45.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> yWUAK WUA WUA
+[26Jul2025 21:14:50.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> XD?
+[26Jul2025 21:14:53.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> encontraste fortaleza?
+[26Jul2025 21:14:57.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> si
+[26Jul2025 21:15:10.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> ya tengo todas las baras pero ya me fui de ahi
+[26Jul2025 21:15:16.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> estoy en una bastion
+[26Jul2025 21:16:04.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[26Jul2025 21:16:25.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Oh Shiny]
+[26Jul2025 21:19:04.808] [Worker-Main-25/INFO] [ModernFix/]: Instantiating Mojang DFU
