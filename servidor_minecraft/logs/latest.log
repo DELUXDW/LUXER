@@ -225,3 +225,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Jul2025 08:02:43.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set the time to 1000]
 [26Jul2025 08:04:18.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
 [26Jul2025 08:04:22.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Creative Mode]
+[26Jul2025 08:10:25.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Survival Mode]
+[26Jul2025 08:10:51.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Creative Mode]
+[26Jul2025 08:11:07.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Removed every effect from moshtro111876]
+[26Jul2025 08:11:21.602] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/114, l='ServerLevel[world]', x=-1931.49, y=27.00, z=2891.30] died, message: 'Unemployed was slain by Zombie'
+[26Jul2025 08:11:34.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Kicked GiovaniiYT15: Kicked by an operator]
+[26Jul2025 08:11:34.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 lost connection: Kicked by an operator
+[26Jul2025 08:11:34.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 left the game
+[26Jul2025 08:11:39.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovaniiYT15[/127.188.109.205:56343] logged in with entity id 3052 at (-1887.9807791476437, 63.0, 2947.713482316085)
+[26Jul2025 08:11:39.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 joined the game
+[26Jul2025 08:11:39.385] [Server thread/INFO] [Jade/]: Syncing config to GiovaniiYT15 (716504a6-70c1-3248-9807-9956be14b490)
+[26Jul2025 08:12:44.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: The difficulty has been set to Hard]
+[26Jul2025 08:13:26.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/79, l='ServerLevel[world]', x=-1873.41, y=60.00, z=2914.70] died, message: 'Unemployed suffocated in a wall'
+[26Jul2025 08:14:40.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
+[26Jul2025 08:14:43.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Survival Mode]
+[26Jul2025 08:14:52.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 was slain by Phantom
+[26Jul2025 08:15:20.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set the time to 1000]
+[26Jul2025 08:15:21.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set the time to 1000]
