@@ -127,7 +127,9 @@
       "minecraft:cave_spider": "2025-07-25 04:04:38 +0000",
       "minecraft:stray": "2025-07-25 03:28:36 +0000",
       "minecraft:silverfish": "2025-07-25 04:07:55 +0000",
-      "minecraft:zombie": "2025-07-25 03:21:01 +0000"
+      "minecraft:zombie": "2025-07-25 03:21:01 +0000",
+      "minecraft:drowned": "2025-07-26 08:49:30 +0000",
+      "minecraft:zombie_villager": "2025-07-26 08:45:52 +0000"
     },
     "done": false
   },
@@ -2433,6 +2435,24 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-07-26 08:42:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-07-26 08:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-26 08:48:36 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-07-26 08:48:58 +0000"
     },
     "done": true
   },

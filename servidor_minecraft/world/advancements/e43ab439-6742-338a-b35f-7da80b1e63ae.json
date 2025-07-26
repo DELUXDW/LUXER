@@ -2971,5 +2971,17 @@
     },
     "done": true
   },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:ignis": "2025-07-26 08:47:11 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-07-26 08:47:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
