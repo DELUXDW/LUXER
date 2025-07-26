@@ -3493,6 +3493,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-26 21:37:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-07-26 21:11:14 +0000"
@@ -3502,6 +3508,12 @@
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2025-07-26 21:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-07-26 21:28:49 +0000"
     },
     "done": true
   },
