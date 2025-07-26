@@ -242,3 +242,47 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Jul2025 08:14:52.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 was slain by Phantom
 [26Jul2025 08:15:20.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set the time to 1000]
 [26Jul2025 08:15:21.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set the time to 1000]
+[26Jul2025 08:16:04.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Applied effect Strength to moshtro111876]
+[26Jul2025 08:16:08.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 was slain by moshtro111876 using [💀🎚👻SOUL RECOLECTOR👻🎚💀]
+[26Jul2025 08:17:08.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Creative Mode]
+[26Jul2025 08:17:26.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
+[26Jul2025 08:17:43.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 was slain by moshtro111876
+[26Jul2025 08:17:56.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Removed every effect from moshtro111876]
+[26Jul2025 08:18:55.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Creative Mode]
+[26Jul2025 08:19:41.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Survival Mode]
+[26Jul2025 08:20:39.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Creative Mode]
+[26Jul2025 08:20:50.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Survival Mode]
+[26Jul2025 08:22:28.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Creative Mode]
+[26Jul2025 08:22:33.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Survival Mode]
+[26Jul2025 08:22:43.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Creative Mode]
+[26Jul2025 08:22:52.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Survival Mode]
+[26Jul2025 08:23:06.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Creative Mode]
+[26Jul2025 08:23:34.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Survival Mode]
+[26Jul2025 08:24:38.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Kicked moshtro111876: Kicked by an operator]
+[26Jul2025 08:24:39.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Kicked by an operator
+[26Jul2025 08:24:39.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[26Jul2025 08:24:43.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:51415] logged in with entity id 7400 at (-1889.1794562810132, 66.0, 2936.231267907987)
+[26Jul2025 08:24:43.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[26Jul2025 08:24:43.358] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[26Jul2025 08:25:18.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Made moshtro111876 no longer a server operator]
+[26Jul2025 08:25:21.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Made GiovaniiYT15 no longer a server operator]
+[26Jul2025 08:25:30.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 lost connection: Disconnected
+[26Jul2025 08:25:30.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 left the game
+[26Jul2025 08:25:30.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Disconnected
+[26Jul2025 08:25:30.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[26Jul2025 08:25:30.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Jul2025 08:25:30.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Jul2025 08:25:30.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Jul2025 08:25:30.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Jul2025 08:25:31.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Jul2025 08:25:31.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[26Jul2025 08:25:31.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Jul2025 08:25:31.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[26Jul2025 08:25:31.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Jul2025 08:25:31.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Jul2025 08:25:31.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[26Jul2025 08:25:31.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Jul2025 08:25:31.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[26Jul2025 08:25:31.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Jul2025 08:25:31.262] [Server thread/INFO] [Framework/]: Unloading server configs...
+[26Jul2025 08:25:31.263] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
