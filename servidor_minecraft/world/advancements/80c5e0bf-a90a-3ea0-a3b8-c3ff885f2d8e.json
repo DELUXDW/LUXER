@@ -4520,6 +4520,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/golden_axe_repairing": {
+    "criteria": {
+      "has_golden_axe": "2025-07-28 10:11:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-07-28 09:41:36 +0000"
