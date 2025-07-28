@@ -128,18 +128,24 @@
       "minecraft:blaze": "2025-07-26 22:01:15 +0000",
       "minecraft:pillager": "2025-07-28 03:33:28 +0000",
       "minecraft:skeleton": "2025-07-25 03:27:33 +0000",
+      "minecraft:ravager": "2025-07-28 03:52:15 +0000",
       "minecraft:hoglin": "2025-07-26 20:20:05 +0000",
+      "minecraft:vindicator": "2025-07-28 03:50:14 +0000",
       "minecraft:magma_cube": "2025-07-26 22:04:36 +0000",
       "minecraft:spider": "2025-07-25 03:25:32 +0000",
       "minecraft:creeper": "2025-07-26 08:05:29 +0000",
       "minecraft:wither": "2025-07-28 02:33:44 +0000",
+      "minecraft:evoker": "2025-07-28 03:55:38 +0000",
       "minecraft:zombified_piglin": "2025-07-26 22:05:34 +0000",
+      "minecraft:witch": "2025-07-28 03:53:29 +0000",
       "minecraft:wither_skeleton": "2025-07-25 04:08:35 +0000",
       "minecraft:husk": "2025-07-25 04:30:07 +0000",
       "minecraft:cave_spider": "2025-07-25 04:04:38 +0000",
       "minecraft:piglin": "2025-07-26 20:14:51 +0000",
       "minecraft:stray": "2025-07-25 03:28:36 +0000",
       "minecraft:silverfish": "2025-07-25 04:07:55 +0000",
+      "minecraft:enderman": "2025-07-28 03:48:36 +0000",
+      "minecraft:vex": "2025-07-28 03:54:13 +0000",
       "minecraft:zombie": "2025-07-25 03:21:01 +0000",
       "minecraft:drowned": "2025-07-26 08:49:30 +0000",
       "minecraft:zombie_villager": "2025-07-26 08:45:52 +0000"
@@ -3389,6 +3395,26 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-28 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-28 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-07-28 03:55:38 +0000",
+      "killed_illusioner": "2025-07-28 03:56:27 +0000",
+      "killed_iceologer": "2025-07-28 03:53:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
       "kill_pillager": "2025-07-28 03:37:57 +0000"
@@ -3401,9 +3427,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-28 03:48:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-07-28 03:33:58 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-07-28 03:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-07-28 03:51:55 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-07-28 03:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-28 03:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-07-28 03:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-28 03:51:55 +0000"
     },
     "done": true
   },

@@ -4580,6 +4580,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-07-28 03:56:13 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:nether/kill_wildfire": {
     "criteria": {
       "killed_wildfire": "2025-07-28 03:44:03 +0000"
