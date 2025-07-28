@@ -3556,6 +3556,90 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-26 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-26 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-26 21:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-07-26 21:59:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-07-26 22:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-07-26 22:09:48 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-07-26 22:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-26 22:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-26 22:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-26 22:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-26 22:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-26 22:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-26 22:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-07-26 22:16:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-26 22:18:19 +0000"
@@ -3568,29 +3652,11 @@
     },
     "done": true
   },
-  "graveyard:graveyard/crypt": {
-    "criteria": {
-      "crypt": "2025-07-26 22:18:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-26 21:56:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-26 22:18:19 +0000"
     },
     "done": true
-  },
-  "friendsandfoes:adventure/the_magicians": {
-    "criteria": {
-      "killed_iceologer": "2025-07-26 22:27:22 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -3610,12 +3676,6 @@
     },
     "done": true
   },
-  "cataclysm:find_ancient_factory": {
-    "criteria": {
-      "factory": "2025-07-26 22:20:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-26 22:18:19 +0000"
@@ -3625,24 +3685,6 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-26 22:18:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-26 21:56:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-07-26 22:12:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-07-26 22:12:20 +0000"
     },
     "done": true
   },
@@ -3664,36 +3706,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-07-26 22:12:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-07-26 22:12:20 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:adventure/kill_iceologer": {
-    "criteria": {
-      "killed_iceologer": "2025-07-26 22:27:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-07-26 22:12:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-07-26 22:12:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-26 22:18:19 +0000"
@@ -3709,12 +3721,6 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-26 22:18:19 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2025-07-26 22:09:54 +0000"
     },
     "done": true
   },
@@ -3742,24 +3748,6 @@
     },
     "done": true
   },
-  "minecraft:nether/return_to_sender": {
-    "criteria": {
-      "killed_ghast": "2025-07-26 21:59:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-26 21:56:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2025-07-26 22:16:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-26 22:18:19 +0000"
@@ -3772,15 +3760,15 @@
     },
     "done": true
   },
-  "aether:recipes/combat/stone_sword_repairing": {
-    "criteria": {
-      "has_stone_sword": "2025-07-26 22:02:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-26 22:18:19 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-07-26 22:18:34 +0000"
     },
     "done": true
   },
@@ -3790,9 +3778,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+  "cataclysm:find_ancient_factory": {
     "criteria": {
-      "has_warped_fungus": "2025-07-26 22:09:48 +0000"
+      "factory": "2025-07-26 22:20:33 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_iceologer": "2025-07-26 22:27:22 +0000"
+    },
+    "done": false
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-07-26 22:27:22 +0000"
     },
     "done": true
   },
