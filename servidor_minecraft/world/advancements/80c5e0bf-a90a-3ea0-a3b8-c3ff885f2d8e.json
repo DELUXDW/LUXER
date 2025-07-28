@@ -2372,9 +2372,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2025-07-28 02:14:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-07-28 02:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-07-28 02:22:12 +0000"
     },
     "done": true
   },
@@ -2387,6 +2399,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-07-28 02:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-07-28 02:22:01 +0000"
     },
     "done": true
   },
@@ -2444,6 +2462,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-07-28 02:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-07-28 02:22:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-07-28 02:03:24 +0000"
@@ -2462,9 +2492,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-28 02:16:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2025-07-28 02:10:42 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-07-28 02:15:02 +0000"
     },
     "done": true
   },
@@ -2483,6 +2525,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-28 02:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2025-07-28 02:14:52 +0000"
     },
     "done": true
   },
@@ -2507,6 +2555,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-07-28 02:03:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-28 02:16:03 +0000"
     },
     "done": true
   },

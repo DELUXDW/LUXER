@@ -6728,3 +6728,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 02:14:04.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jul2025 02:14:04.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Jul2025 02:14:16.981] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_12
+[28Jul2025 02:15:02.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Stay dead]
+[28Jul2025 02:15:14.684] [Worker-Main-76/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_07 is being run through DFU (hash 76596ca855b63c58a4b7722ab1e9cd651c3f9dd0016cdaba414c774cf7e7fd47), this will cause launch time delays
+[28Jul2025 02:15:14.684] [Worker-Main-76/INFO] [ModernFix/]: Instantiating Mojang DFU
+[28Jul2025 02:15:15.524] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[28Jul2025 02:15:15.859] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_02
+[28Jul2025 02:19:04.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 02:19:04.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 02:23:11.799] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/21831, l='ServerLevel[world]', x=-1906.35, y=51.26, z=2919.47], dimensionLocationPath overworld
+[28Jul2025 02:23:11.799] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/21831, l='ServerLevel[world]', x=-1906.35, y=51.26, z=2919.47] in list []
+[28Jul2025 02:23:12.298] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/21831, l='ServerLevel[world]', x=-1906.85, y=51.01, z=2920.29, removed=DISCARDED]
+[28Jul2025 02:23:15.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> Volvi
+[28Jul2025 02:23:18.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> vamos
+[28Jul2025 02:24:04.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 02:24:04.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
