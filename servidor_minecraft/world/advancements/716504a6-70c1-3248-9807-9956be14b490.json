@@ -21,6 +21,7 @@
       "minecraft:river": "2025-07-25 03:19:41 +0000",
       "minecraft:lukewarm_ocean": "2025-07-25 04:59:38 +0000",
       "minecraft:dripstone_caves": "2025-07-26 22:13:56 +0000",
+      "minecraft:forest": "2025-07-28 01:34:53 +0000",
       "minecraft:lush_caves": "2025-07-25 03:34:16 +0000",
       "minecraft:desert": "2025-07-25 03:12:16 +0000",
       "minecraft:jungle": "2025-07-25 05:01:52 +0000",
@@ -2926,6 +2927,18 @@
   "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
       "has_eye_armor_trim_smithing_template": "2025-07-26 22:24:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-07-28 01:29:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2025-07-28 01:39:15 +0000"
     },
     "done": true
   },
