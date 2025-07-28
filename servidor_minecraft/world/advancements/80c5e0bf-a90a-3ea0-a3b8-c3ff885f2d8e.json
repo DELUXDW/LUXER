@@ -14,6 +14,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:wooded_badlands": "2025-07-28 05:26:58 +0000",
+      "minecraft:bamboo_jungle": "2025-07-28 22:41:50 +0000",
       "minecraft:beach": "2025-07-25 05:01:33 +0000",
       "minecraft:mangrove_swamp": "2025-07-25 03:13:04 +0000",
       "minecraft:sparse_jungle": "2025-07-25 04:25:30 +0000",
@@ -323,12 +324,14 @@
       "minecraft:pillager": "2025-07-28 08:40:01 +0000",
       "minecraft:skeleton": "2025-07-25 03:25:05 +0000",
       "minecraft:ravager": "2025-07-28 09:51:16 +0000",
+      "minecraft:hoglin": "2025-07-28 22:36:56 +0000",
       "minecraft:vindicator": "2025-07-28 04:01:28 +0000",
       "minecraft:spider": "2025-07-25 03:34:43 +0000",
       "minecraft:piglin_brute": "2025-07-28 03:51:25 +0000",
       "minecraft:creeper": "2025-07-25 05:07:38 +0000",
       "minecraft:evoker": "2025-07-28 09:58:56 +0000",
       "minecraft:phantom": "2025-07-28 04:02:04 +0000",
+      "minecraft:zombified_piglin": "2025-07-28 22:34:59 +0000",
       "minecraft:witch": "2025-07-28 09:57:29 +0000",
       "minecraft:wither_skeleton": "2025-07-25 04:19:16 +0000",
       "minecraft:husk": "2025-07-25 03:21:09 +0000",
@@ -4598,6 +4601,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_lime_dye": "2025-07-28 22:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 22:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2025-07-28 22:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 22:46:40 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/skyroot_hoe": {
     "criteria": {
       "has_planks": "2025-07-28 22:15:57 +0000"
@@ -4607,6 +4634,12 @@
   "aether:recipes/decorations/skyroot_fence": {
     "criteria": {
       "has_skyroot_planks": "2025-07-28 22:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-28 22:43:40 +0000"
     },
     "done": true
   },
@@ -4628,15 +4661,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-28 22:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2025-07-28 22:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 22:44:54 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_pressure_plate": {
     "criteria": {
       "has_skyroot_planks": "2025-07-28 22:15:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 22:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-07-28 22:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 22:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-07-28 22:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 22:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2025-07-28 22:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 22:43:48 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/zanite_shovel_repairing": {
     "criteria": {
       "has_zanite_shovel": "2025-07-28 22:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-07-28 22:46:06 +0000"
     },
     "done": true
   },
@@ -4649,6 +4748,12 @@
   "aether:recipes/combat/poison_dart": {
     "criteria": {
       "has_golden_dart": "2025-07-28 22:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-07-28 22:46:06 +0000"
     },
     "done": true
   },
@@ -4676,6 +4781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-28 22:44:54 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/skyroot_axe": {
     "criteria": {
       "has_planks": "2025-07-28 22:15:57 +0000"
@@ -4694,9 +4805,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 22:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-07-28 22:44:54 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/enchanted_dart_enchanting": {
     "criteria": {
       "has_golden_dart": "2025-07-28 22:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 22:43:48 +0000"
     },
     "done": true
   },
@@ -4706,9 +4835,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_brown_dye": "2025-07-28 22:43:48 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_dart_shooter": {
     "criteria": {
       "has_skyroot_planks": "2025-07-28 22:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-28 22:41:59 +0000"
     },
     "done": true
   },
@@ -4718,9 +4859,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 22:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 22:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-28 22:41:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-28 22:41:59 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-07-28 22:41:59 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_fence_gate": {
     "criteria": {
       "has_skyroot_planks": "2025-07-28 22:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 22:46:06 +0000"
     },
     "done": true
   },
