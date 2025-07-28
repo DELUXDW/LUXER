@@ -3781,3 +3781,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 21:26:32.340] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 257 classes
 [28Jul2025 21:26:32.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb joined the game
 [28Jul2025 21:26:32.391] [Server thread/INFO] [Jade/]: Syncing config to Nightmare73lb (80c5e0bf-a90a-3ea0-a3b8-c3ff885f2d8e)
+[28Jul2025 21:27:24.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 21:27:24.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 21:32:24.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 21:32:24.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 21:33:58.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1883, y=63, z=2935} BlockPos{x=-1884, y=62, z=2936}

@@ -229,3 +229,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 21:26:32.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nightmare73lb[/127.205.190.144:35173] logged in with entity id 5290 at (-1883.8733640174423, 63.0, 2922.7544161820892)
 [28Jul2025 21:26:32.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb joined the game
 [28Jul2025 21:26:32.391] [Server thread/INFO] [Jade/]: Syncing config to Nightmare73lb (80c5e0bf-a90a-3ea0-a3b8-c3ff885f2d8e)
+[28Jul2025 21:33:58.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1883, y=63, z=2935} BlockPos{x=-1884, y=62, z=2936}
