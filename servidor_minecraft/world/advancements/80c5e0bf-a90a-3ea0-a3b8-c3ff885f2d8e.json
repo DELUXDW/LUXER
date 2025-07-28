@@ -4058,6 +4058,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-07-28 05:59:09 +0000"
+    },
+    "done": true
+  },
   "endlessbiomes:glowing_green_rocks": {
     "criteria": {
       "glowing_green_rocks": "2025-07-28 05:50:39 +0000"

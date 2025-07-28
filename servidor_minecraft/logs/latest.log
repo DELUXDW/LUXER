@@ -260,3 +260,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 05:51:07.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare73lb moved wrongly!
 [28Jul2025 05:51:20.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare73lb moved wrongly!
 [28Jul2025 05:53:37.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Palette Swap]
+[28Jul2025 05:59:09.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has reached the goal [Postmortal]
+[28Jul2025 05:59:47.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has completed the challenge [Wasn't that a Shulker?]

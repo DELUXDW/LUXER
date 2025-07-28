@@ -9702,3 +9702,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 05:57:22.141] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Nightmare73lb'/383, l='ServerLevel[world]', x=1155.25, y=47.00, z=1671.70] is dead or in a banned dimension the_end
 [28Jul2025 05:57:22.193] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Nightmare73lb'/383, l='ServerLevel[world]', x=1155.25, y=47.00, z=1671.70], dimensionLocationPath the_end
 [28Jul2025 05:57:22.193] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Nightmare73lb'/383, l='ServerLevel[world]', x=1155.25, y=47.00, z=1671.70] is dead or in a banned dimension the_end
+[28Jul2025 05:59:09.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has reached the goal [Postmortal]
+[28Jul2025 05:59:47.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has completed the challenge [Wasn't that a Shulker?]
+[28Jul2025 06:02:07.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 06:02:07.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 06:04:10.039] [Server thread/DEBUG] [ModernFix/]: Structure endlessbiomes:radon_bulwark_head_2 is being run through DFU (hash e37f21f904fd624f464793f99b42f01a0935019a46e17be9a8530f4a83778379), this will cause launch time delays
+[28Jul2025 06:04:10.089] [Server thread/DEBUG] [ModernFix/]: Structure endlessbiomes:radon_bulwark_base is being run through DFU (hash c06198ef4f6973676f3ce1f9b1319c34bf8f76050001865c78eac3d3f5865cf8), this will cause launch time delays
+[28Jul2025 06:07:07.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 06:07:07.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
