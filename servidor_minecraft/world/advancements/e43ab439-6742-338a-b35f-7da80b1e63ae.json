@@ -4580,5 +4580,17 @@
     },
     "done": true
   },
+  "friendsandfoes:nether/kill_wildfire": {
+    "criteria": {
+      "killed_wildfire": "2025-07-28 03:44:03 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:nether/find_citadel": {
+    "criteria": {
+      "citadel": "2025-07-28 03:41:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
