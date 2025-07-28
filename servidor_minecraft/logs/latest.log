@@ -251,3 +251,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 05:45:17.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has completed the challenge [Great View From Up Here]
 [28Jul2025 05:45:38.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Weird Fishes/Arpeggi]
 [28Jul2025 05:45:45.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Weird Fishes/Arpeggi]
+[28Jul2025 05:47:36.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has reached the goal [A Noble Sacrifice]
+[28Jul2025 05:47:40.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has reached the goal [Volcanic Glass]
+[28Jul2025 05:49:21.827] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=98496, y=93, z=2433}
+[28Jul2025 05:49:31.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Another Stronghold?!]
+[28Jul2025 05:49:36.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Another Stronghold?!]
+[28Jul2025 05:50:39.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Glowing Green Rocks]
+[28Jul2025 05:51:07.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare73lb moved wrongly!
+[28Jul2025 05:51:20.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare73lb moved wrongly!
+[28Jul2025 05:53:37.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Palette Swap]
