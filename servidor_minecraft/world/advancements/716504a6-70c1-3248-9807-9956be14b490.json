@@ -3735,9 +3735,27 @@
     },
     "done": true
   },
-  "minecraft:end/dragon_egg": {
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
     "criteria": {
-      "dragon_egg": "2025-07-28 05:34:30 +0000"
+      "has_netherite_pickaxe": "2025-07-28 05:20:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_axe_repairing": {
+    "criteria": {
+      "has_netherite_axe": "2025-07-28 05:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-07-28 05:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-07-28 05:25:50 +0000"
     },
     "done": true
   },
@@ -3753,27 +3771,9 @@
     },
     "done": true
   },
-  "aether:recipes/tools/netherite_axe_repairing": {
-    "criteria": {
-      "has_netherite_axe": "2025-07-28 05:20:18 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/netherite_pickaxe_repairing": {
-    "criteria": {
-      "has_netherite_pickaxe": "2025-07-28 05:20:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-07-28 05:34:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-07-28 05:25:50 +0000"
     },
     "done": true
   },
@@ -3789,9 +3789,21 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
+  "minecraft:end/dragon_egg": {
     "criteria": {
-      "entered_end": "2025-07-28 05:25:50 +0000"
+      "dragon_egg": "2025-07-28 05:34:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-28 07:38:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-28 07:38:04 +0000"
     },
     "done": true
   },
