@@ -371,3 +371,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 03:58:21.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-625, y=15, z=191} BlockPos{x=-625, y=14, z=190}
 [28Jul2025 03:58:41.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-656, y=15, z=167} BlockPos{x=-658, y=15, z=167}
 [28Jul2025 04:01:19.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[28Jul2025 04:01:55.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [World of illusion]
+[28Jul2025 04:02:20.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has completed the challenge [Hero of the Village]
+[28Jul2025 04:02:20.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has completed the challenge [Hero of the Village]
+[28Jul2025 04:02:20.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has completed the challenge [Hero of the Village]
+[28Jul2025 04:09:08.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Crafting a New Look]
+[28Jul2025 04:10:20.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Crafting a New Look]

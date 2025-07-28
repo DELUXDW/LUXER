@@ -888,17 +888,21 @@
       "minecraft:skeleton": "2025-07-25 04:01:17 +0000",
       "minecraft:ghast": "2025-07-26 21:59:21 +0000",
       "minecraft:hoglin": "2025-07-26 20:27:20 +0000",
+      "minecraft:vindicator": "2025-07-28 04:01:09 +0000",
       "minecraft:spider": "2025-07-25 04:02:26 +0000",
       "minecraft:piglin_brute": "2025-07-26 20:30:14 +0000",
       "minecraft:creeper": "2025-07-25 05:59:19 +0000",
       "minecraft:wither": "2025-07-28 02:36:02 +0000",
+      "minecraft:phantom": "2025-07-28 04:06:10 +0000",
       "minecraft:zombified_piglin": "2025-07-26 21:10:14 +0000",
+      "minecraft:witch": "2025-07-28 04:01:34 +0000",
       "minecraft:wither_skeleton": "2025-07-25 04:02:08 +0000",
       "minecraft:husk": "2025-07-25 04:30:29 +0000",
       "minecraft:piglin": "2025-07-26 20:26:59 +0000",
       "minecraft:silverfish": "2025-07-25 04:12:27 +0000",
       "minecraft:stray": "2025-07-25 04:14:25 +0000",
       "minecraft:enderman": "2025-07-26 21:09:34 +0000",
+      "minecraft:vex": "2025-07-28 04:02:41 +0000",
       "minecraft:zombie": "2025-07-25 04:04:29 +0000",
       "minecraft:zombie_villager": "2025-07-28 01:24:33 +0000"
     },
@@ -3790,6 +3794,7 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
+      "killed_illusioner": "2025-07-28 04:01:55 +0000",
       "killed_iceologer": "2025-07-26 22:27:22 +0000"
     },
     "done": false
@@ -4586,9 +4591,58 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": "2025-07-28 04:10:20 +0000",
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2025-07-28 04:10:51 +0000"
+    },
+    "done": false
+  },
   "friendsandfoes:nether/kill_wildfire": {
     "criteria": {
       "killed_wildfire": "2025-07-28 03:44:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2025-07-28 04:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-07-28 04:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": "2025-07-28 04:10:20 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-07-28 04:01:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-07-28 04:08:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2025-07-28 03:56:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2025-07-28 04:08:42 +0000"
     },
     "done": true
   },
