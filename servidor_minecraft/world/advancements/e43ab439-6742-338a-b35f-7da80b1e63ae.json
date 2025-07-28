@@ -4334,6 +4334,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_ring_repairing": {
+    "criteria": {
+      "has_zanite_ring": "2025-07-28 03:13:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/holystone_sword_repairing": {
+    "criteria": {
+      "has_holystone_sword": "2025-07-28 03:14:03 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/zanite_pickaxe": {
     "criteria": {
       "has_zanite_gemstone": "2025-07-28 03:14:19 +0000"
@@ -4352,39 +4364,9 @@
     },
     "done": true
   },
-  "aether:recipes/tools/skyroot_hoe": {
-    "criteria": {
-      "has_planks": "2025-07-28 03:18:43 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_fence": {
-    "criteria": {
-      "has_skyroot_planks": "2025-07-28 03:18:43 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/zanite_gloves": {
     "criteria": {
       "has_zanite_gemstone": "2025-07-28 03:14:19 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_crafting_table": {
-    "criteria": {
-      "has_planks": "2025-07-28 03:18:43 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/skyroot_shovel": {
-    "criteria": {
-      "has_planks": "2025-07-28 03:18:43 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/skyroot_stick": {
-    "criteria": {
-      "has_planks": "2025-07-28 03:18:43 +0000"
     },
     "done": true
   },
@@ -4406,21 +4388,9 @@
     },
     "done": true
   },
-  "aether:recipes/redstone/skyroot_pressure_plate": {
-    "criteria": {
-      "has_skyroot_planks": "2025-07-28 03:18:43 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/zanite_chestplate": {
     "criteria": {
       "has_zanite_gemstone": "2025-07-28 03:14:19 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/holystone_sword_repairing": {
-    "criteria": {
-      "has_holystone_sword": "2025-07-28 03:14:03 +0000"
     },
     "done": true
   },
@@ -4442,24 +4412,6 @@
     },
     "done": true
   },
-  "aether:recipes/tools/zanite_shovel_repairing": {
-    "criteria": {
-      "has_zanite_shovel": "2025-07-28 03:19:03 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/skyroot_sword": {
-    "criteria": {
-      "has_planks": "2025-07-28 03:18:43 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/zanite_ring_repairing": {
-    "criteria": {
-      "has_zanite_ring": "2025-07-28 03:13:58 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/tools/zanite_hoe": {
     "criteria": {
       "has_zanite_gemstone": "2025-07-28 03:14:19 +0000"
@@ -4469,6 +4421,84 @@
   "aether:recipes/combat/zanite_ring": {
     "criteria": {
       "has_zanite_gemstone": "2025-07-28 03:14:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_axe": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:14:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_shovel": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:14:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_helmet": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:14:19 +0000"
+    },
+    "done": true
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2025-07-28 03:14:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_planks": {
+    "criteria": {
+      "has_logs": "2025-07-28 03:18:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 03:18:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_hoe": {
+    "criteria": {
+      "has_planks": "2025-07-28 03:18:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fence": {
+    "criteria": {
+      "has_skyroot_planks": "2025-07-28 03:18:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-07-28 03:18:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_shovel": {
+    "criteria": {
+      "has_planks": "2025-07-28 03:18:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/skyroot_stick": {
+    "criteria": {
+      "has_planks": "2025-07-28 03:18:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_pressure_plate": {
+    "criteria": {
+      "has_skyroot_planks": "2025-07-28 03:18:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_sword": {
+    "criteria": {
+      "has_planks": "2025-07-28 03:18:43 +0000"
     },
     "done": true
   },
@@ -4490,12 +4520,6 @@
     },
     "done": true
   },
-  "aether:recipes/tools/zanite_axe": {
-    "criteria": {
-      "has_zanite_gemstone": "2025-07-28 03:14:19 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/redstone/skyroot_button": {
     "criteria": {
       "has_skyroot_planks": "2025-07-28 03:18:43 +0000"
@@ -4514,27 +4538,9 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/skyroot_planks": {
-    "criteria": {
-      "has_logs": "2025-07-28 03:18:41 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/zanite_shovel": {
-    "criteria": {
-      "has_zanite_gemstone": "2025-07-28 03:14:19 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/redstone/skyroot_trapdoor": {
     "criteria": {
       "has_skyroot_planks": "2025-07-28 03:18:43 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/zanite_helmet": {
-    "criteria": {
-      "has_zanite_gemstone": "2025-07-28 03:14:19 +0000"
     },
     "done": true
   },
@@ -4556,21 +4562,21 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/skyroot_wood": {
-    "criteria": {
-      "has_log": "2025-07-28 03:18:41 +0000"
-    },
-    "done": true
-  },
-  "aether:zanite": {
-    "criteria": {
-      "zanite": "2025-07-28 03:14:19 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/redstone/skyroot_fence_gate": {
     "criteria": {
       "has_skyroot_planks": "2025-07-28 03:18:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_shovel_repairing": {
+    "criteria": {
+      "has_zanite_shovel": "2025-07-28 03:19:03 +0000"
+    },
+    "done": true
+  },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2025-07-28 03:27:05 +0000"
     },
     "done": true
   },
