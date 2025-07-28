@@ -264,3 +264,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 05:59:47.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has completed the challenge [Wasn't that a Shulker?]
 [28Jul2025 06:07:57.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Palette Swap]
 [28Jul2025 06:12:23.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has completed the challenge [Wasn't that a Shulker?]
+[28Jul2025 06:23:04.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Local Brewery]
+[28Jul2025 06:23:40.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has reached the goal [Sky's the Limit]
+[28Jul2025 06:25:00.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3213ms or 64 ticks behind
