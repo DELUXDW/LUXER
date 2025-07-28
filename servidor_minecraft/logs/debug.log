@@ -4659,3 +4659,132 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 09:19:35.251] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/10565, l='ServerLevel[world]', x=-2451.48, y=36.00, z=2607.49], dimensionLocationPath overworld
 [28Jul2025 09:19:35.251] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/10565, l='ServerLevel[world]', x=-2451.48, y=36.00, z=2607.49] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2944]
 [28Jul2025 09:19:54.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> yo e visto mujeres q te aman bien aca
+[28Jul2025 09:19:59.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ncesito una de esas
+[28Jul2025 09:20:00.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 09:20:00.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 09:20:04.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> una tipo roro XDDDDDDD
+[28Jul2025 09:20:07.071] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/10564, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:20:07.071] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/10565, l='ServerLevel[world]', x=-2451.48, y=36.00, z=2607.49, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:20:14.457] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/10941, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13], dimensionLocationPath overworld
+[28Jul2025 09:20:14.457] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/10941, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13] in list []
+[28Jul2025 09:20:14.457] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/10942, l='ServerLevel[world]', x=-2451.48, y=36.00, z=2607.49], dimensionLocationPath overworld
+[28Jul2025 09:20:14.457] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/10942, l='ServerLevel[world]', x=-2451.48, y=36.00, z=2607.49] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2abd]
+[28Jul2025 09:20:18.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> SUMISA
+[28Jul2025 09:20:29.213] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/10941, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:20:29.213] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/10942, l='ServerLevel[world]', x=-2451.48, y=36.00, z=2607.49, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:20:33.453] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/11173, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13], dimensionLocationPath overworld
+[28Jul2025 09:20:33.453] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/11173, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13] in list []
+[28Jul2025 09:20:33.454] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/11174, l='ServerLevel[world]', x=-2451.48, y=36.00, z=2607.49], dimensionLocationPath overworld
+[28Jul2025 09:20:33.454] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/11174, l='ServerLevel[world]', x=-2451.48, y=36.00, z=2607.49] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2ba5]
+[28Jul2025 09:20:51.264] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/11173, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:20:51.264] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/11174, l='ServerLevel[world]', x=-2451.48, y=36.00, z=2607.49, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:20:53.352] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/11504, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13], dimensionLocationPath overworld
+[28Jul2025 09:20:53.352] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/11504, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13] in list []
+[28Jul2025 09:20:53.352] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/11505, l='ServerLevel[world]', x=-2451.48, y=36.00, z=2607.49], dimensionLocationPath overworld
+[28Jul2025 09:20:53.352] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/11505, l='ServerLevel[world]', x=-2451.48, y=36.00, z=2607.49] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2cf0]
+[28Jul2025 09:21:06.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> xd
+[28Jul2025 09:21:15.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ella quiere que la domine wbn
+[28Jul2025 09:21:34.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> es como llevar contra wbn
+[28Jul2025 09:21:37.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> haci hacne
+[28Jul2025 09:21:41.714] [Worker-Main-3/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[28Jul2025 09:21:41.714] [Worker-Main-3/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[28Jul2025 09:21:41.714] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[28Jul2025 09:21:41.715] [Worker-Main-3/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[28Jul2025 09:21:41.715] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[28Jul2025 09:21:42.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/hunter_base
+[28Jul2025 09:21:42.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/watch_tower
+[28Jul2025 09:21:42.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/illager_woodhut
+[28Jul2025 09:21:42.045] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_guard
+[28Jul2025 09:21:42.046] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hunters_return:hunter_house/mob/hunter_illager
+[28Jul2025 09:21:42.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 moved too quickly! 9.36895838180044,0.3693736602695026,-3.978654007097248
+[28Jul2025 09:21:42.484] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone'/10441, l='ServerLevel[world]', x=-2221.39, y=78.00, z=3951.33, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:21:42.809] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[28Jul2025 09:21:43.166] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/11504, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:21:43.166] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/11505, l='ServerLevel[world]', x=-2451.48, y=36.00, z=2607.49, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:21:44.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ajas
+[28Jul2025 09:21:49.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> primero tirones d lag
+[28Jul2025 09:21:51.362] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/12144, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13], dimensionLocationPath overworld
+[28Jul2025 09:21:51.362] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/12144, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13] in list []
+[28Jul2025 09:21:51.362] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/12145, l='ServerLevel[world]', x=-2451.48, y=36.00, z=2607.49], dimensionLocationPath overworld
+[28Jul2025 09:21:51.362] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/12145, l='ServerLevel[world]', x=-2451.48, y=36.00, z=2607.49] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@2f70]
+[28Jul2025 09:22:03.225] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/12144, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:22:03.225] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/12145, l='ServerLevel[world]', x=-2451.48, y=36.00, z=2607.49, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:22:06.114] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/12292, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13], dimensionLocationPath overworld
+[28Jul2025 09:22:06.114] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/12292, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13] in list []
+[28Jul2025 09:22:06.114] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/12293, l='ServerLevel[world]', x=-2451.48, y=36.00, z=2607.49], dimensionLocationPath overworld
+[28Jul2025 09:22:06.114] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/12293, l='ServerLevel[world]', x=-2451.48, y=36.00, z=2607.49] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3004]
+[28Jul2025 09:22:09.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> oooh
+[28Jul2025 09:22:17.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> yo apenas llevo mal prestajio 4
+[28Jul2025 09:22:19.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[28Jul2025 09:22:25.529] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Torch'/12293, l='ServerLevel[world]', x=-2451.48, y=36.00, z=2607.48]
+[28Jul2025 09:22:27.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> seh
+[28Jul2025 09:22:28.962] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/12293, l='ServerLevel[world]', x=-2452.20, y=36.19, z=2602.13], dimensionLocationPath overworld
+[28Jul2025 09:22:28.963] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/12293, l='ServerLevel[world]', x=-2452.20, y=36.19, z=2602.13] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3004]
+[28Jul2025 09:22:29.468] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Air'/12293, l='ServerLevel[world]', x=-2452.88, y=36.00, z=2602.13, removed=DISCARDED]
+[28Jul2025 09:22:30.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pero tal chill
+[28Jul2025 09:22:36.422] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/12292, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:22:39.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[28Jul2025 09:22:40.513] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/12629, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13], dimensionLocationPath overworld
+[28Jul2025 09:22:40.513] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/12629, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13] in list []
+[28Jul2025 09:22:43.829] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/12629, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:22:50.411] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/12784, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13], dimensionLocationPath overworld
+[28Jul2025 09:22:50.412] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/12784, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13] in list []
+[28Jul2025 09:23:01.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ohh
+[28Jul2025 09:23:03.027] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/12784, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:23:14.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pero pues haci estan las cosas xd
+[28Jul2025 09:23:16.314] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/12952, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13], dimensionLocationPath overworld
+[28Jul2025 09:23:16.314] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/12952, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13] in list []
+[28Jul2025 09:23:30.484] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/12952, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:23:32.818] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/13160, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13], dimensionLocationPath overworld
+[28Jul2025 09:23:32.818] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/13160, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13] in list []
+[28Jul2025 09:23:37.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XDDD
+[28Jul2025 09:23:40.525] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/13160, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:23:45.164] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/13287, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13], dimensionLocationPath overworld
+[28Jul2025 09:23:45.164] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/13287, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13] in list []
+[28Jul2025 09:23:53.921] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/13287, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:24:17.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pero amoo tanto a esaaa muujer wbnn
+[28Jul2025 09:24:28.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> cierto
+[28Jul2025 09:24:35.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> si sabes como se llma? XD
+[28Jul2025 09:24:39.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> mi novia
+[28Jul2025 09:24:40.315] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/13821, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13], dimensionLocationPath overworld
+[28Jul2025 09:24:40.315] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/13821, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13] in list []
+[28Jul2025 09:24:47.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> se llama Jimena
+[28Jul2025 09:25:00.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 09:25:00.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 09:25:04.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> sabe
+[28Jul2025 09:25:08.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> q es lo raro
+[28Jul2025 09:25:21.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> se llama Jimena Paula Hernadez Cruz
+[28Jul2025 09:25:32.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y soy Giovanni Castillo Cruz
+[28Jul2025 09:25:34.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XDD
+[28Jul2025 09:25:38.825] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/13821, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:25:48.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pero no somos de sangre
+[28Jul2025 09:25:50.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> directa
+[28Jul2025 09:25:51.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[28Jul2025 09:25:55.175] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/14511, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13], dimensionLocationPath overworld
+[28Jul2025 09:25:55.175] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/14511, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13] in list []
+[28Jul2025 09:26:05.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> porfin
+[28Jul2025 09:26:06.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> 5
+[28Jul2025 09:26:12.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> goo raid?
+[28Jul2025 09:26:23.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> okok avisa xd
+[28Jul2025 09:26:33.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ya?
+[28Jul2025 09:26:40.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> okok
+[28Jul2025 09:26:50.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pero si wbn
+[28Jul2025 09:26:56.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pero no todo es malo
+[28Jul2025 09:27:02.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> tambien ay cosas buenas
+[28Jul2025 09:27:20.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> resistencia
+[28Jul2025 09:27:32.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> yo puse resistencia XD
+[28Jul2025 09:27:41.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pon los dos creo se pude
+[28Jul2025 09:27:43.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> void
+[28Jul2025 09:27:47.537] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/14511, l='ServerLevel[world]', x=-2452.58, y=36.00, z=2602.13, removed=UNLOADED_TO_CHUNK]
+[28Jul2025 09:28:17.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> flechas XD
+[28Jul2025 09:28:33.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> antan
+[28Jul2025 09:28:59.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> nou
+[28Jul2025 09:29:17.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[28Jul2025 09:29:21.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> en el cielo?
+[28Jul2025 09:29:28.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> concha
+[28Jul2025 09:29:35.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> iba pasando y me callo
+[28Jul2025 09:29:36.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[28Jul2025 09:29:52.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> aca
+[28Jul2025 09:30:00.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 09:30:00.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 09:30:12.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pz no

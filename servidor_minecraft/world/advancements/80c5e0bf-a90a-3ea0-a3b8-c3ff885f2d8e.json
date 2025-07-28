@@ -4491,5 +4491,17 @@
     },
     "done": true
   },
+  "aether:recipes/food/enchanted_berry_enchanting": {
+    "criteria": {
+      "has_blue_berry": "2025-07-28 09:17:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/blue_moa_incubation": {
+    "criteria": {
+      "has_blue_moa_egg": "2025-07-28 09:19:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
