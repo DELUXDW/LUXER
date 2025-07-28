@@ -899,6 +899,7 @@
       "minecraft:witch": "2025-07-28 04:01:34 +0000",
       "minecraft:wither_skeleton": "2025-07-25 04:02:08 +0000",
       "minecraft:husk": "2025-07-25 04:30:29 +0000",
+      "minecraft:ender_dragon": "2025-07-28 05:33:54 +0000",
       "minecraft:piglin": "2025-07-26 20:26:59 +0000",
       "minecraft:silverfish": "2025-07-25 04:12:27 +0000",
       "minecraft:stray": "2025-07-25 04:14:25 +0000",
@@ -4693,6 +4694,36 @@
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-07-28 05:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-07-28 05:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-07-28 05:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-07-28 05:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-07-28 05:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-07-28 05:25:16 +0000"
     },
     "done": true
   },
