@@ -341,3 +341,58 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 02:41:21.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has reached the goal [Beaconator]
 [28Jul2025 02:41:21.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Bring Home the Beacon]
 [28Jul2025 02:41:21.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has reached the goal [Beaconator]
+[28Jul2025 02:46:46.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has made the advancement [Hostile Paradise]
+[28Jul2025 02:46:55.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Hostile Paradise]
+[28Jul2025 02:47:06.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Hostile Paradise]
+[28Jul2025 02:47:56.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [To Infinity and Beyond!]
+[28Jul2025 02:48:06.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Baby Food]
+[28Jul2025 02:48:13.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has made the advancement [To Infinity and Beyond!]
+[28Jul2025 02:50:31.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of GiovaniiYT15) moved too quickly! 0.0,-320.41590642923904,0.0
+[28Jul2025 02:50:35.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Nightmare73lb) moved too quickly! 0.0,-320.1385221726152,0.0
+[28Jul2025 02:50:35.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Nightmare73lb) moved too quickly! 0.0,-320.3101221726152,0.0
+[28Jul2025 02:50:41.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Nightmare73lb) moved too quickly! 0.0,31.464159359999996,0.0
+[28Jul2025 02:50:41.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Nightmare73lb) moved too quickly! 0.0,31.38575936000001,0.0
+[28Jul2025 02:50:41.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Nightmare73lb) moved too quickly! 0.0,31.38575936000001,0.0
+[28Jul2025 02:50:41.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Nightmare73lb) moved too quickly! 0.0,31.38575936000001,0.0
+[28Jul2025 02:50:41.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Nightmare73lb) moved too quickly! 0.0,31.38575936000001,0.0
+[28Jul2025 02:50:41.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Nightmare73lb) moved too quickly! 0.0,31.13575936000001,0.0
+[28Jul2025 02:50:41.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Nightmare73lb) moved too quickly! 0.0,31.38575936000001,0.0
+[28Jul2025 02:50:41.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Nightmare73lb) moved too quickly! 0.0,31.38575936000001,0.0
+[28Jul2025 02:50:41.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Nightmare73lb) moved too quickly! 0.0,31.38575936000001,0.0
+[28Jul2025 02:50:41.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Nightmare73lb) moved too quickly! 0.0,31.13575936000001,0.0
+[28Jul2025 02:50:41.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Nightmare73lb) moved too quickly! 0.0,31.13575936000001,0.0
+[28Jul2025 02:50:46.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of GiovaniiYT15) moved too quickly! 0.0,16.75,0.0
+[28Jul2025 02:50:46.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of GiovaniiYT15) moved too quickly! 0.0,16.5,0.0
+[28Jul2025 02:50:46.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of GiovaniiYT15) moved too quickly! 0.0,16.5,0.0
+[28Jul2025 02:50:46.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of GiovaniiYT15) moved too quickly! 0.0,16.25,0.0
+[28Jul2025 02:50:46.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of GiovaniiYT15) moved too quickly! 0.0,16.0,0.0
+[28Jul2025 02:50:46.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of GiovaniiYT15) moved too quickly! 0.0,15.75,0.0
+[28Jul2025 02:50:46.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of GiovaniiYT15) moved too quickly! 0.0,15.5,0.0
+[28Jul2025 02:50:46.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of GiovaniiYT15) moved too quickly! 0.0,15.25,0.0
+[28Jul2025 02:50:46.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of GiovaniiYT15) moved too quickly! 0.0,15.0,0.0
+[28Jul2025 02:50:46.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of GiovaniiYT15) moved too quickly! 0.0,14.75,0.0
+[28Jul2025 02:50:46.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of GiovaniiYT15) moved too quickly! 0.0,14.5,0.0
+[28Jul2025 02:51:10.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of moshtro111876) moved too quickly! 0.019478935138067754,-320.0457164982945,-0.017926925435403973
+[28Jul2025 02:51:10.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of moshtro111876) moved too quickly! 0.12310518812455484,-320.2957164982945,-0.11324942818237105
+[28Jul2025 02:51:36.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of GiovaniiYT15) moved too quickly! 0.0,-319.9341169773902,0.0
+[28Jul2025 02:51:36.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of GiovaniiYT15) moved too quickly! 0.0,-320.1841169773902,0.0
+[28Jul2025 02:51:40.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 moved too quickly! 0.11285711784557861,-11.065764912039867,0.06900424052173548
+[28Jul2025 02:51:42.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 was kicked for floating too long!
+[28Jul2025 02:51:42.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 lost connection: Disconnected
+[28Jul2025 02:51:42.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 left the game
+[28Jul2025 02:51:42.571] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jul2025 02:52:11.466] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77b4b242[id=<null>,name=GiovaniiYT15,properties={},legacy=false] (/127.188.109.205:38939) lost connection: Disconnected
+[28Jul2025 02:52:15.772] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovaniiYT15[/127.188.109.205:55803] logged in with entity id 28131 at (-1878.266195233023, 247.32819992942433, 2939.6364653626747)
+[28Jul2025 02:52:15.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 joined the game
+[28Jul2025 02:52:15.826] [Server thread/INFO] [Jade/]: Syncing config to GiovaniiYT15 (716504a6-70c1-3248-9807-9956be14b490)
+[28Jul2025 02:52:26.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 was kicked for floating too long!
+[28Jul2025 02:52:26.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 lost connection: Flying is not enabled on this server
+[28Jul2025 02:52:26.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 left the game
+[28Jul2025 02:53:00.360] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5bf88400[id=<null>,name=GiovaniiYT15,properties={},legacy=false] (/127.188.109.205:44299) lost connection: Disconnected
+[28Jul2025 02:53:27.066] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@cf158f9[id=<null>,name=GiovaniiYT15,properties={},legacy=false] (/127.188.109.205:38785) lost connection: Disconnected
+[28Jul2025 02:53:33.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovaniiYT15[/127.188.109.205:41915] logged in with entity id 29819 at (-1876.1559291786525, 118.30916677551788, 2940.9337318771404)
+[28Jul2025 02:53:33.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 joined the game
+[28Jul2025 02:53:33.274] [Server thread/INFO] [Jade/]: Syncing config to GiovaniiYT15 (716504a6-70c1-3248-9807-9956be14b490)
+[28Jul2025 02:53:35.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 fell from a high place
+[28Jul2025 02:54:39.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Don't Count Your Moas...]
+[28Jul2025 02:54:47.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Don't Count Your Moas...]
