@@ -414,3 +414,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 03:13:01.829] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
 [28Jul2025 03:14:19.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Exotic Hardware]
 [28Jul2025 03:14:34.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has reached the goal [Postmortal]
+[28Jul2025 03:18:11.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Exotic Hardware]
+[28Jul2025 03:22:50.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has reached the goal [Earning your Wings]
+[28Jul2025 03:22:53.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Battle Hardened]
+[28Jul2025 03:24:56.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 moved too quickly! 0.08223388950000299,-10.722248667987515,0.13390707046846728
+[28Jul2025 03:24:57.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 was kicked for floating too long!
+[28Jul2025 03:24:57.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Flying is not enabled on this server
+[28Jul2025 03:24:57.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[28Jul2025 03:25:01.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:59133] logged in with entity id 58672 at (-2276.2631980752444, 298.4021525579132, 3472.320766332581)
+[28Jul2025 03:25:01.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[28Jul2025 03:25:01.289] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[28Jul2025 03:25:05.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 moved wrongly!

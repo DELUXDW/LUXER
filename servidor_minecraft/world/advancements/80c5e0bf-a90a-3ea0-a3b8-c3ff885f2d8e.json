@@ -2379,6 +2379,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/zanite_pickaxe": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:18:11 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-28 02:27:34 +0000"
@@ -2397,6 +2403,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_boots": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:18:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
     "criteria": {
       "has_deepslate_lapis_ore": "2025-07-28 02:14:52 +0000"
@@ -2412,6 +2424,12 @@
   "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
     "criteria": {
       "has_moa_egg": "2025-07-28 02:54:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/wood_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:18:11 +0000"
     },
     "done": true
   },
@@ -2475,6 +2493,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_gloves": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:18:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-07-28 02:22:12 +0000"
@@ -2520,6 +2544,12 @@
   "aether:recipes/building_blocks/angelic_stairs": {
     "criteria": {
       "has_angelic_stone": "2025-07-28 03:05:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_sword": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:18:11 +0000"
     },
     "done": true
   },
@@ -2583,6 +2613,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/zanite_pickaxe_repairing": {
+    "criteria": {
+      "has_zanite_pickaxe": "2025-07-28 03:16:56 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-28 02:27:34 +0000"
@@ -2598,6 +2634,18 @@
   "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-28 02:27:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:18:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_leggings": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:18:11 +0000"
     },
     "done": true
   },
@@ -2655,6 +2703,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_chestplate": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:18:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2025-07-28 02:41:21 +0000"
@@ -2697,6 +2751,18 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/zanite_block": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:18:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_pendant": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:18:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/pillar_from_angelic_stone_stonecutting": {
     "criteria": {
       "has_angelic_stone": "2025-07-28 03:05:53 +0000"
@@ -2733,6 +2799,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/nature_staff": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:18:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-28 03:12:49 +0000"
@@ -2754,6 +2826,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2025-07-28 02:10:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_hoe": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:18:11 +0000"
     },
     "done": true
   },
@@ -2796,6 +2874,12 @@
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-28 02:27:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:18:11 +0000"
     },
     "done": true
   },
@@ -2853,6 +2937,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/zanite_axe": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:18:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/icestone_stairs": {
     "criteria": {
       "has_icestone": "2025-07-28 02:56:13 +0000"
@@ -2898,6 +2988,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-28 03:12:49 +0000"
+    },
+    "done": true
+  },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2025-07-28 03:22:53 +0000"
     },
     "done": true
   },
@@ -2961,6 +3057,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/zanite_shovel": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:18:11 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-28 02:27:34 +0000"
@@ -2994,6 +3096,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-07-28 02:43:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_helmet": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:18:11 +0000"
     },
     "done": true
   },
@@ -3117,6 +3225,12 @@
     },
     "done": true
   },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_gloves": "2025-07-28 03:22:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
     "criteria": {
       "has_deepslate_gold_ore": "2025-07-28 02:10:59 +0000"
@@ -3138,6 +3252,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-28 03:12:49 +0000"
+    },
+    "done": true
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2025-07-28 03:18:11 +0000"
     },
     "done": true
   },

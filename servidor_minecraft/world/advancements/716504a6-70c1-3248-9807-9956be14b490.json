@@ -3147,6 +3147,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-07-28 03:14:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/holystone_brick_wall_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-07-28 02:57:57 +0000"
