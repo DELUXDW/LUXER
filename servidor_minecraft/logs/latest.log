@@ -402,3 +402,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 03:05:22.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has reached the goal [Dethroned]
 [28Jul2025 03:05:22.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has reached the goal [Dethroned]
 [28Jul2025 03:05:22.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has reached the goal [Dethroned]
+[28Jul2025 03:05:35.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has made the advancement [Exotic Hardware]
+[28Jul2025 03:05:35.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has reached the goal [Earning your Wings]
+[28Jul2025 03:05:36.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has reached the goal [Earning your Wings]
+[28Jul2025 03:10:06.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Cold as Ice]
+[28Jul2025 03:12:57.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 was kicked for floating too long!
+[28Jul2025 03:12:57.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Flying is not enabled on this server
+[28Jul2025 03:12:57.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[28Jul2025 03:13:01.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:55701] logged in with entity id 55147 at (-2337.774353519591, 193.94792791546664, 3569.6729374509664)
+[28Jul2025 03:13:01.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[28Jul2025 03:13:01.829] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[28Jul2025 03:14:19.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Exotic Hardware]
+[28Jul2025 03:14:34.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has reached the goal [Postmortal]

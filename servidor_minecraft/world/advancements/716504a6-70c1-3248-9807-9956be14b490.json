@@ -3009,15 +3009,33 @@
     },
     "done": true
   },
+  "aether:recipes/tools/zanite_pickaxe": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:05:35 +0000"
+    },
+    "done": true
+  },
   "aether:icestone": {
     "criteria": {
       "icestone": "2025-07-28 02:59:25 +0000"
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_boots": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:05:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_bricks": {
     "criteria": {
       "has_holystone": "2025-07-28 02:57:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/wood_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:05:35 +0000"
     },
     "done": true
   },
@@ -3033,9 +3051,21 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/angelic_slab": {
+    "criteria": {
+      "has_angelic_stone": "2025-07-28 03:05:53 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/healing_stone_enchanting": {
     "criteria": {
       "has_holystone": "2025-07-28 02:57:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_gloves": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:05:35 +0000"
     },
     "done": true
   },
@@ -3057,6 +3087,24 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/angelic_stairs": {
+    "criteria": {
+      "has_angelic_stone": "2025-07-28 03:05:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_sword": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:05:35 +0000"
+    },
+    "done": true
+  },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-07-28 03:05:22 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/altar": {
     "criteria": {
       "has_holystone": "2025-07-28 02:57:57 +0000"
@@ -3069,15 +3117,33 @@
     },
     "done": true
   },
+  "aether:recipes/combat/skyroot_zanite_vanilla_shield": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:05:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_brick_slab_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-07-28 02:57:57 +0000"
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_leggings": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:05:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/icestone_slab": {
     "criteria": {
       "has_icestone": "2025-07-28 02:59:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/angelic_wall_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-07-28 03:05:53 +0000"
     },
     "done": true
   },
@@ -3090,6 +3156,24 @@
   "aether:recipes/building_blocks/holystone_slab": {
     "criteria": {
       "has_holystone": "2025-07-28 02:57:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_chestplate": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:05:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_slab_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-07-28 03:05:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/angelic_wall": {
+    "criteria": {
+      "has_angelic_stone": "2025-07-28 03:05:53 +0000"
     },
     "done": true
   },
@@ -3111,15 +3195,57 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/zanite_block": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:05:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_pendant": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:05:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/pillar_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-07-28 03:05:53 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/icestone_stairs_from_icestone_stonecutting": {
     "criteria": {
       "has_icestone": "2025-07-28 02:59:25 +0000"
     },
     "done": true
   },
+  "aether:recipes/tools/nature_staff": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:05:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring_repairing": {
+    "criteria": {
+      "has_zanite_ring": "2025-07-28 03:06:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/icestone_slab_from_icestone_stonecutting": {
     "criteria": {
       "has_icestone": "2025-07-28 02:59:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_hoe": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:05:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_ring": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:05:35 +0000"
     },
     "done": true
   },
@@ -3141,6 +3267,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/zanite_axe": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:05:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/icestone_stairs": {
     "criteria": {
       "has_icestone": "2025-07-28 02:59:25 +0000"
@@ -3159,9 +3291,33 @@
     },
     "done": true
   },
+  "aether:recipes/tools/zanite_shovel": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:05:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/pillar_top_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-07-28 03:05:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_pendant_repairing": {
+    "criteria": {
+      "has_zanite_pendant": "2025-07-28 03:06:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_brick_stairs_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-07-28 02:57:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_helmet": {
+    "criteria": {
+      "has_zanite_gemstone": "2025-07-28 03:05:35 +0000"
     },
     "done": true
   },
@@ -3171,15 +3327,33 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/light_angelic_stone_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-07-28 03:05:53 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/mossy_holystone_with_vine": {
     "criteria": {
       "has_holystone": "2025-07-28 02:57:57 +0000"
     },
     "done": true
   },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_pickaxe": "2025-07-28 03:05:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/freezer": {
     "criteria": {
       "has_holystone": "2025-07-28 02:57:57 +0000"
+    },
+    "done": true
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2025-07-28 03:05:35 +0000"
     },
     "done": true
   },
@@ -3198,6 +3372,12 @@
   "aether:recipes/redstone/holystone_button": {
     "criteria": {
       "has_holystone": "2025-07-28 02:57:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_stairs_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-07-28 03:05:53 +0000"
     },
     "done": true
   },
