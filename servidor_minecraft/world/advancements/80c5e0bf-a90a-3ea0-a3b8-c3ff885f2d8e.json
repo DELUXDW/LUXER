@@ -4515,9 +4515,10 @@
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
       "killed_evoker": "2025-07-28 09:58:56 +0000",
+      "killed_illusioner": "2025-07-28 10:00:18 +0000",
       "killed_iceologer": "2025-07-28 09:59:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
@@ -4534,6 +4535,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-07-28 09:43:41 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-07-28 10:00:18 +0000"
     },
     "done": true
   },
