@@ -1,28 +1,28 @@
-[28Jul2025 08:59:37.349] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[28Jul2025 08:59:37.353] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[28Jul2025 08:59:38.283] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[28Jul2025 08:59:38.340] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/LUXER/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[28Jul2025 08:59:38.638] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LUXER/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[28Jul2025 08:59:38.641] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LUXER/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[28Jul2025 08:59:38.642] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LUXER/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[28Jul2025 08:59:38.643] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LUXER/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[28Jul2025 08:59:38.920] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[28Jul2025 08:59:38.922] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/LUXER/servidor_minecraft/mods/curios-forge-5.14.1+1.20.1.jar
-[28Jul2025 08:59:38.922] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
-[28Jul2025 08:59:41.025] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[28Jul2025 08:59:41.037] [main/ERROR] [mixin/]: Mixin config firstperson.mixins.json does not specify "minVersion" property
-[28Jul2025 08:59:41.136] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[28Jul2025 08:59:41.191] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[28Jul2025 08:59:41.196] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
-[28Jul2025 08:59:41.283] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.6+mc1.20.1: 83 options available, 0 override(s) found
-[28Jul2025 08:59:41.284] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[28Jul2025 08:59:41.299] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[28Jul2025 08:59:41.374] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
-[28Jul2025 08:59:41.378] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
-[28Jul2025 08:59:41.380] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
-[28Jul2025 08:59:41.383] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[28Jul2025 08:59:41.391] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 99 options available, 0 override(s) found
-[28Jul2025 08:59:41.480] [main/INFO] [Puzzles Lib/]: Loading 54 mods:
+[28Jul2025 21:17:00.840] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[28Jul2025 21:17:00.843] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[28Jul2025 21:17:01.748] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[28Jul2025 21:17:01.802] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/LUXER/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[28Jul2025 21:17:02.073] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LUXER/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[28Jul2025 21:17:02.075] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LUXER/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28Jul2025 21:17:02.076] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LUXER/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28Jul2025 21:17:02.077] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LUXER/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28Jul2025 21:17:02.350] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[28Jul2025 21:17:02.351] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/LUXER/servidor_minecraft/mods/curios-forge-5.14.1+1.20.1.jar
+[28Jul2025 21:17:02.351] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
+[28Jul2025 21:17:04.373] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[28Jul2025 21:17:04.392] [main/ERROR] [mixin/]: Mixin config firstperson.mixins.json does not specify "minVersion" property
+[28Jul2025 21:17:04.509] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[28Jul2025 21:17:04.579] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jul2025 21:17:04.584] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jul2025 21:17:04.673] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.6+mc1.20.1: 83 options available, 0 override(s) found
+[28Jul2025 21:17:04.674] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[28Jul2025 21:17:04.694] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[28Jul2025 21:17:04.781] [main/WARN] [mixin/]: Reference map 'mixins.call_of_yucutan.refmap.json' for mixins.call_of_yucutan.json could not be read. If this is a development environment you can ignore this message
+[28Jul2025 21:17:04.784] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
+[28Jul2025 21:17:04.788] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
+[28Jul2025 21:17:04.793] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jul2025 21:17:04.801] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 99 options available, 0 override(s) found
+[28Jul2025 21:17:04.901] [main/INFO] [Puzzles Lib/]: Loading 54 mods:
 	- advancementplaques 1.6.7
 	- aether 1.20.1-1.0.0-beta.1.4-neoforge
 		|-- cumulus_menus 1.20.1-1.0.0-beta.1-neoforge
@@ -78,20 +78,20 @@
 	- sophisticatedcore 1.2.75.1033
 	- treeharvester 9.1
 	- visualworkbench 8.0.0
-[28Jul2025 08:59:41.486] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
-[28Jul2025 08:59:41.489] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[28Jul2025 08:59:42.958] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[28Jul2025 08:59:43.523] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (8.780 s after launch)
-[28Jul2025 08:59:43.656] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[28Jul2025 08:59:43.657] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[28Jul2025 08:59:45.238] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1711 milliseconds
-[28Jul2025 08:59:48.374] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
-[28Jul2025 08:59:48.634] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[28Jul2025 08:59:48.688] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[28Jul2025 08:59:48.921] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[28Jul2025 08:59:48.923] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[28Jul2025 08:59:48.961] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[28Jul2025 08:59:48.962] [modloading-worker-0/ERROR] [Embeddium/]: Failed to update fingerprint
+[28Jul2025 21:17:04.907] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jul2025 21:17:04.911] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Jul2025 21:17:06.625] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[28Jul2025 21:17:07.421] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.160 s after launch)
+[28Jul2025 21:17:07.603] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[28Jul2025 21:17:07.604] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[28Jul2025 21:17:09.390] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1964 milliseconds
+[28Jul2025 21:17:12.513] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[28Jul2025 21:17:12.807] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[28Jul2025 21:17:12.903] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[28Jul2025 21:17:13.225] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[28Jul2025 21:17:13.225] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[28Jul2025 21:17:13.341] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[28Jul2025 21:17:13.353] [modloading-worker-0/ERROR] [Embeddium/]: Failed to update fingerprint
 java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
 	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
 	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
@@ -120,44 +120,44 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecra
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[28Jul2025 08:59:49.031] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
-[28Jul2025 08:59:49.062] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
-[28Jul2025 08:59:49.105] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[28Jul2025 08:59:52.203] [modloading-worker-0/INFO] [bagus_lib/]: Load Bagus Lib Supporter
-[28Jul2025 08:59:52.207] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[28Jul2025 08:59:52.367] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Starting version check at https://github.com/BumbleSoftware/Fastload/raw/Forge-1.20.1/updates.json
-[28Jul2025 08:59:52.538] [main/INFO] [journeymap/]: Initializing Packet Registries
-[28Jul2025 08:59:52.689] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Found status: UP_TO_DATE Current: 3.4.0 Target: null
-[28Jul2025 08:59:52.690] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
-[28Jul2025 08:59:52.755] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: OUTDATED Current: 1.20.1-1.0.0-beta.1.4-neoforge Target: 1.20.1-1.5.2-neoforge
-[28Jul2025 08:59:52.755] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
-[28Jul2025 08:59:52.766] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: OUTDATED Current: 8.0.0 Target: 8.0.1
-[28Jul2025 08:59:52.766] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[28Jul2025 08:59:52.979] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[28Jul2025 08:59:53.033] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[28Jul2025 08:59:53.034] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[28Jul2025 08:59:53.046] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[28Jul2025 08:59:53.046] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[28Jul2025 08:59:53.047] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.aetherteam.aether.integration.jade.AetherJadePlugin
-[28Jul2025 08:59:53.063] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[28Jul2025 08:59:53.073] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[28Jul2025 08:59:53.076] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[28Jul2025 08:59:53.077] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.github.exopandora.shouldersurfing.integration.ShoulderSurfingJadePlugin
-[28Jul2025 08:59:53.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[28Jul2025 08:59:53.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
-[28Jul2025 08:59:53.545] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: OUTDATED Current: 1.6.7 Target: 1.6.9
-[28Jul2025 08:59:53.546] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[28Jul2025 08:59:53.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
-[28Jul2025 08:59:53.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[28Jul2025 08:59:53.617] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[28Jul2025 08:59:53.618] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
-[28Jul2025 08:59:53.693] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[28Jul2025 08:59:53.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: OUTDATED Current: 1.20.1-1.0.0-beta.1-neoforge Target: 1.20.1-1.0.1-neoforge
-[28Jul2025 08:59:53.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[28Jul2025 08:59:53.706] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
-[28Jul2025 08:59:53.707] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[28Jul2025 08:59:53.796] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[28Jul2025 08:59:53.833] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[28Jul2025 21:17:13.472] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[28Jul2025 21:17:13.519] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[28Jul2025 21:17:13.612] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[28Jul2025 21:17:16.512] [modloading-worker-0/INFO] [bagus_lib/]: Load Bagus Lib Supporter
+[28Jul2025 21:17:16.521] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[28Jul2025 21:17:16.648] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[28Jul2025 21:17:16.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Starting version check at https://github.com/BumbleSoftware/Fastload/raw/Forge-1.20.1/updates.json
+[28Jul2025 21:17:16.823] [main/INFO] [journeymap/]: Initializing Packet Registries
+[28Jul2025 21:17:17.022] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Found status: UP_TO_DATE Current: 3.4.0 Target: null
+[28Jul2025 21:17:17.022] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[28Jul2025 21:17:17.184] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: OUTDATED Current: 1.20.1-1.0.0-beta.1.4-neoforge Target: 1.20.1-1.5.2-neoforge
+[28Jul2025 21:17:17.185] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[28Jul2025 21:17:17.197] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: OUTDATED Current: 8.0.0 Target: 8.0.1
+[28Jul2025 21:17:17.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[28Jul2025 21:17:17.385] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.aetherteam.aether.integration.jade.AetherJadePlugin
+[28Jul2025 21:17:17.392] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[28Jul2025 21:17:17.403] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[28Jul2025 21:17:17.406] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[28Jul2025 21:17:17.408] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.github.exopandora.shouldersurfing.integration.ShoulderSurfingJadePlugin
+[28Jul2025 21:17:17.432] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[28Jul2025 21:17:17.433] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[28Jul2025 21:17:17.444] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[28Jul2025 21:17:17.444] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[28Jul2025 21:17:17.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[28Jul2025 21:17:17.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[28Jul2025 21:17:17.959] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: OUTDATED Current: 1.6.7 Target: 1.6.9
+[28Jul2025 21:17:17.960] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[28Jul2025 21:17:17.995] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[28Jul2025 21:17:18.016] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[28Jul2025 21:17:18.016] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[28Jul2025 21:17:18.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[28Jul2025 21:17:18.033] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[28Jul2025 21:17:18.092] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[28Jul2025 21:17:18.097] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: OUTDATED Current: 1.20.1-1.0.0-beta.1-neoforge Target: 1.20.1-1.0.1-neoforge
+[28Jul2025 21:17:18.098] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[28Jul2025 21:17:18.110] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[28Jul2025 21:17:18.111] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[28Jul2025 21:17:18.245] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -172,385 +172,60 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[28Jul2025 08:59:54.101] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/LUXER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23195!/assets/.mcassetsroot' uses unexpected schema
-[28Jul2025 08:59:54.101] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/LUXER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23195!/data/.mcassetsroot' uses unexpected schema
-[28Jul2025 08:59:56.154] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[28Jul2025 08:59:56.844] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
-[28Jul2025 08:59:56.848] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
-[28Jul2025 08:59:56.878] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
-[28Jul2025 08:59:57.025] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1922 advancements
-[28Jul2025 08:59:57.028] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[28Jul2025 08:59:57.031] [main/INFO] [Dungeon Crawl/]: Loading data...
-[28Jul2025 08:59:57.449] [main/INFO] [Dungeon Crawl/]: Done.
-[28Jul2025 08:59:57.467] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 17 curio slots
-[28Jul2025 08:59:57.472] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 9 curio entities
-[28Jul2025 08:59:57.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[28Jul2025 08:59:57.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[28Jul2025 08:59:57.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[28Jul2025 08:59:57.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[28Jul2025 08:59:58.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[28Jul2025 08:59:58.024] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[28Jul2025 08:59:58.125] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[28Jul2025 08:59:58.125] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[28Jul2025 08:59:58.126] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[28Jul2025 08:59:58.126] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[28Jul2025 08:59:58.141] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[28Jul2025 08:59:58.276] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[28Jul2025 08:59:58.276] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[28Jul2025 08:59:58.276] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[28Jul2025 08:59:58.277] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[28Jul2025 08:59:58.277] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[28Jul2025 08:59:58.278] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[28Jul2025 08:59:58.278] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[28Jul2025 08:59:58.279] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[28Jul2025 08:59:58.279] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[28Jul2025 08:59:58.279] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[28Jul2025 08:59:58.296] [Server thread/INFO] [Explorations/]: Config 'explorations.json' was successfully loaded.
-[28Jul2025 08:59:58.298] [Server thread/INFO] [Explorations/]: Added statues to vanilla villages
-[28Jul2025 08:59:58.300] [Server thread/INFO] [Framework/]: Loading server configs...
-[28Jul2025 08:59:58.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[28Jul2025 08:59:58.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[28Jul2025 08:59:58.927] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[28Jul2025 09:00:00.019] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[28Jul2025 09:00:00.620] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8828753 ms
-[28Jul2025 09:00:00.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.481s)! For help, type "help"
-[28Jul2025 09:00:00.655] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[28Jul2025 09:00:00.689] [Server thread/WARN] [ModernFix/]: Dedicated server took 25.948 seconds to load
-[28Jul2025 09:00:06.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nightmare73lb[/127.125.1.66:38797] logged in with entity id 51 at (-1899.541723865315, 66.0, 2929.699999988079)
-[28Jul2025 09:00:06.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb joined the game
-[28Jul2025 09:00:06.496] [Server thread/INFO] [Jade/]: Syncing config to Nightmare73lb (80c5e0bf-a90a-3ea0-a3b8-c3ff885f2d8e)
-[28Jul2025 09:00:07.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovaniiYT15[/127.188.109.205:54327] logged in with entity id 63 at (-2256.641444840827, 68.0, 2719.47361455025)
-[28Jul2025 09:00:07.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 joined the game
-[28Jul2025 09:00:07.194] [Server thread/INFO] [Jade/]: Syncing config to GiovaniiYT15 (716504a6-70c1-3248-9807-9956be14b490)
-[28Jul2025 09:00:25.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pero si wbn
-[28Jul2025 09:00:33.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> tu amas mucho a zoe men_
-[28Jul2025 09:00:34.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ?
-[28Jul2025 09:00:47.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> osea fuera de mame si la amas bien aca>
-[28Jul2025 09:01:20.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ohh
-[28Jul2025 09:01:23.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ouu
-[28Jul2025 09:01:25.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> tu piensas que te dolera perderla?
-[28Jul2025 09:01:35.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:02:16.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> si pues si
-[28Jul2025 09:02:17.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> si los dos perdemos novia, pzz suicidio colectivo no?
-[28Jul2025 09:02:31.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:02:47.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> alv XD
-[28Jul2025 09:03:05.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y rencarnas como maldicion
-[28Jul2025 09:03:08.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> haci bien void
-[28Jul2025 09:03:10.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:03:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> seras rita 2.0
-[28Jul2025 09:03:26.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:03:29.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pero sera rito
-[28Jul2025 09:03:31.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:03:40.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> seras riko
-[28Jul2025 09:03:41.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:03:46.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> criko
-[28Jul2025 09:03:48.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:04:02.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pero estamos igual
-[28Jul2025 09:04:08.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> amo demasiado a mi novia
-[28Jul2025 09:04:54.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> si fue_
-[28Jul2025 09:04:55.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ?
-[28Jul2025 09:05:36.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> esta distante
-[28Jul2025 09:05:41.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> yo fui de chismoso
-[28Jul2025 09:05:44.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> con mi novia
-[28Jul2025 09:05:45.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> >V
-[28Jul2025 09:05:56.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> SEH
-[28Jul2025 09:05:57.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:06:20.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y ella como mujer no me dio buenas palabras wbnn
-[28Jul2025 09:06:37.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> que dice ella
-[28Jul2025 09:06:41.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> que eso es desinteres
-[28Jul2025 09:06:49.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> que te prepares
-[28Jul2025 09:06:53.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> que lo mas probable
-[28Jul2025 09:06:56.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> es ya sabes
-[28Jul2025 09:07:33.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> te cuento algo personal wbn?
-[28Jul2025 09:07:44.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> una vez
-[28Jul2025 09:07:52.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> una noche, nosotros estamos bien
-[28Jul2025 09:07:54.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> odo bien
-[28Jul2025 09:07:57.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> te lo juro
-[28Jul2025 09:08:08.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y de la nada tardo en responder, y de la nad ame dijo
-[28Jul2025 09:08:19.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> que pues terminamos que no se sentia comoda, que no se que tanto
-[28Jul2025 09:08:25.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y quede ic
-[28Jul2025 09:08:27.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ice
-[28Jul2025 09:08:32.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> me quito de todo
-[28Jul2025 09:08:42.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y pues obiamente me deprimi
-[28Jul2025 09:08:44.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> nose
-[28Jul2025 09:08:47.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> de la nada fue
-[28Jul2025 09:08:52.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pero pues
-[28Jul2025 09:09:03.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> despues al dia siguiente en la madru
-[28Jul2025 09:09:13.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> le dije yo, que pues resptaba y aja no?
-[28Jul2025 09:09:35.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y pues le comente que me diga que le disgusto que para yo mejorar en mi futura relacion
-[28Jul2025 09:09:45.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pq pues no quieres arreglar nada
-[28Jul2025 09:09:48.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> le dije yo
-[28Jul2025 09:09:56.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y dijo que ay que arreglar
-[28Jul2025 09:10:02.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y y le comente wbdas
-[28Jul2025 09:10:14.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y le dije que de que se puede arreglar se puede
-[28Jul2025 09:10:19.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> q no queiras es otra coas
-[28Jul2025 09:10:21.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> cosa
-[28Jul2025 09:10:34.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y despues me dijo. de verdad quieres serguir
-[28Jul2025 09:10:52.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> le dije que si
-[28Jul2025 09:11:01.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y dijo bueno como no me soltaste
-[28Jul2025 09:11:07.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> esta vez yo nunca lo are
-[28Jul2025 09:11:14.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y despues con los dias hablamos
-[28Jul2025 09:11:21.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> fui a su casa
-[28Jul2025 09:11:31.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> lo primero fue abrazarme yy pzz yo no queria
-[28Jul2025 09:11:34.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> me sentia raro
-[28Jul2025 09:11:48.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y ella dijo que no la soltara pasamos al cuarto
-[28Jul2025 09:11:52.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y lo hablamos
-[28Jul2025 09:12:06.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y ya solucinamos las cosas
-[28Jul2025 09:12:09.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y aca andamos
-[28Jul2025 09:12:13.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y hoy paso esto
-[28Jul2025 09:12:17.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y hoy la vi wbn
-[28Jul2025 09:12:26.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y estuvmos bien y todo
-[28Jul2025 09:12:33.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y ahora no que q pasa
-[28Jul2025 09:13:13.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> si
-[28Jul2025 09:13:16.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y eso esta mal
-[28Jul2025 09:13:23.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> aveces solo quiero q se abra
-[28Jul2025 09:13:25.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> osea
-[28Jul2025 09:13:28.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> que me cuente
-[28Jul2025 09:13:35.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> no les cuesta nada pee
-[28Jul2025 09:13:44.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> le ofreci un elote
-[28Jul2025 09:13:48.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> otro
-[28Jul2025 09:14:00.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y pues mejor me mando el mensaje que te madne por dc
-[28Jul2025 09:14:24.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> rarisimo
-[28Jul2025 09:15:01.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pienso lo mismo
-[28Jul2025 09:15:22.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pero bueno
-[28Jul2025 09:15:30.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> el amor es dificil
-[28Jul2025 09:16:11.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pero sin importar que si ella te gusta hare/aras lo que puedas para seguir estando a su lado pq dios osea imaginar perder a la perosna que mas amas en el mundo duele
-[28Jul2025 09:16:45.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> si en eso tienes razon
-[28Jul2025 09:16:57.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> no podemos forzar a amarnos
-[28Jul2025 09:17:27.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> por eso digo
-[28Jul2025 09:17:29.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> que
-[28Jul2025 09:17:34.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ella sera mi ultima relacon
-[28Jul2025 09:17:37.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> relacion
-[28Jul2025 09:18:55.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> si pues si y si es haci ojala sea ella de nuevo
-[28Jul2025 09:18:57.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> xD
-[28Jul2025 09:19:25.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> es mucho pedir ser amados tal vez_
-[28Jul2025 09:19:54.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> yo e visto mujeres q te aman bien aca
-[28Jul2025 09:19:59.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ncesito una de esas
-[28Jul2025 09:20:04.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> una tipo roro XDDDDDDD
-[28Jul2025 09:20:18.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> SUMISA
-[28Jul2025 09:21:06.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> xd
-[28Jul2025 09:21:15.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ella quiere que la domine wbn
-[28Jul2025 09:21:34.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> es como llevar contra wbn
-[28Jul2025 09:21:37.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> haci hacne
-[28Jul2025 09:21:42.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 moved too quickly! 9.36895838180044,0.3693736602695026,-3.978654007097248
-[28Jul2025 09:21:44.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ajas
-[28Jul2025 09:21:49.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> primero tirones d lag
-[28Jul2025 09:22:09.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> oooh
-[28Jul2025 09:22:17.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> yo apenas llevo mal prestajio 4
-[28Jul2025 09:22:19.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:22:27.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> seh
-[28Jul2025 09:22:30.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pero tal chill
-[28Jul2025 09:22:39.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:23:01.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ohh
-[28Jul2025 09:23:14.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pero pues haci estan las cosas xd
-[28Jul2025 09:23:37.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XDDD
-[28Jul2025 09:24:17.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pero amoo tanto a esaaa muujer wbnn
-[28Jul2025 09:24:28.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> cierto
-[28Jul2025 09:24:35.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> si sabes como se llma? XD
-[28Jul2025 09:24:39.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> mi novia
-[28Jul2025 09:24:47.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> se llama Jimena
-[28Jul2025 09:25:04.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> sabe
-[28Jul2025 09:25:08.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> q es lo raro
-[28Jul2025 09:25:21.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> se llama Jimena Paula Hernadez Cruz
-[28Jul2025 09:25:32.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y soy Giovanni Castillo Cruz
-[28Jul2025 09:25:34.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XDD
-[28Jul2025 09:25:48.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pero no somos de sangre
-[28Jul2025 09:25:50.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> directa
-[28Jul2025 09:25:51.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:26:05.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> porfin
-[28Jul2025 09:26:06.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> 5
-[28Jul2025 09:26:12.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> goo raid?
-[28Jul2025 09:26:23.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> okok avisa xd
-[28Jul2025 09:26:33.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ya?
-[28Jul2025 09:26:40.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> okok
-[28Jul2025 09:26:50.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pero si wbn
-[28Jul2025 09:26:56.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pero no todo es malo
-[28Jul2025 09:27:02.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> tambien ay cosas buenas
-[28Jul2025 09:27:20.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> resistencia
-[28Jul2025 09:27:32.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> yo puse resistencia XD
-[28Jul2025 09:27:41.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pon los dos creo se pude
-[28Jul2025 09:27:43.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> void
-[28Jul2025 09:28:17.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> flechas XD
-[28Jul2025 09:28:33.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> antan
-[28Jul2025 09:28:59.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> nou
-[28Jul2025 09:29:17.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:29:21.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> en el cielo?
-[28Jul2025 09:29:28.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> concha
-[28Jul2025 09:29:35.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> iba pasando y me callo
-[28Jul2025 09:29:36.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:29:52.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> aca
-[28Jul2025 09:30:12.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pz no
-[28Jul2025 09:30:24.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> zz
-[28Jul2025 09:30:54.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> qn sabe
-[28Jul2025 09:30:56.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> a mimir
-[28Jul2025 09:31:03.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:31:17.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> en la mina tal vez?
-[28Jul2025 09:31:40.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> marcan enemigos
-[28Jul2025 09:32:30.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> aca escuche bruja
-[28Jul2025 09:32:59.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pz no
-[28Jul2025 09:33:11.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> toca campana
-[28Jul2025 09:34:13.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> q raid xd
-[28Jul2025 09:34:37.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> activo esa monda
-[28Jul2025 09:34:45.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> el glowin
-[28Jul2025 09:34:57.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> no se ven
-[28Jul2025 09:35:12.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> por eso digo doy el efecto?
-[28Jul2025 09:35:32.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> como se llama?
-[28Jul2025 09:35:41.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> pillager
-[28Jul2025 09:35:53.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pongo efecto no?
-[28Jul2025 09:36:35.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Glowing to 2 targets
-[28Jul2025 09:36:50.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> como doy glowing a los mobs?
-[28Jul2025 09:37:33.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made GiovaniiYT15 a server operator
-[28Jul2025 09:37:58.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Removed every effect from 2 targets]
-[28Jul2025 09:38:24.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Applied effect Glowing to 367 targets]
-[28Jul2025 09:38:30.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ahi ta
-[28Jul2025 09:38:46.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> los bos tienen glowin
-[28Jul2025 09:39:23.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ay mobs abajo
-[28Jul2025 09:40:05.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> cchecas aya abajo con spectador?
-[28Jul2025 09:40:55.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> nop
-[28Jul2025 09:41:20.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> sepa donde hicieron spwn
-[28Jul2025 09:41:36.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Voluntary Exile]
-[28Jul2025 09:41:45.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 moved too quickly! -0.023219181398417277,-11.064980402202309,0.023938099142469582
-[28Jul2025 09:41:48.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 was kicked for floating too long!
-[28Jul2025 09:41:48.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 lost connection: Flying is not enabled on this server
-[28Jul2025 09:41:48.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 left the game
-[28Jul2025 09:41:52.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovaniiYT15[/127.188.109.205:38225] logged in with entity id 20156 at (-1873.2753613358643, 218.69683258102165, 2932.769686390819)
-[28Jul2025 09:41:52.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 joined the game
-[28Jul2025 09:41:53.033] [Server thread/INFO] [Jade/]: Syncing config to GiovaniiYT15 (716504a6-70c1-3248-9807-9956be14b490)
-[28Jul2025 09:42:14.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> me cai
-[28Jul2025 09:42:16.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> del cielo
-[28Jul2025 09:42:41.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> es q me empujaron
-[28Jul2025 09:44:36.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> como se llman?
-[28Jul2025 09:44:44.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> si
-[28Jul2025 09:44:50.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> pillager
-[28Jul2025 09:45:09.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Killed 6 entities]
-[28Jul2025 09:45:15.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> mate a 6
-[28Jul2025 09:45:17.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:45:25.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> q mobs
-[28Jul2025 09:45:29.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pueden ser los demas
-[28Jul2025 09:46:12.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> umm
-[28Jul2025 09:46:17.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> me falta el nombre de los demas
-[28Jul2025 09:46:22.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> soy como la death note
-[28Jul2025 09:46:54.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> vindicator
-[28Jul2025 09:47:06.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Killed 2 entities]
-[28Jul2025 09:47:09.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> falta 1
-[28Jul2025 09:47:10.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:47:17.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> witch
-[28Jul2025 09:47:30.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> nop
-[28Jul2025 09:47:32.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:47:41.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> no
-[28Jul2025 09:47:45.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> es el otro mob
-[28Jul2025 09:47:49.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> q lo agg un mod
-[28Jul2025 09:47:51.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:48:22.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> no aparece como hunter
-[28Jul2025 09:48:25.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ni cazador
-[28Jul2025 09:48:43.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> seoa
-[28Jul2025 09:48:44.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> sepa
-[28Jul2025 09:48:46.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 09:48:55.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> aver deja veo abajo
-[28Jul2025 09:49:03.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Spectator Mode]
-[28Jul2025 09:49:21.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ya lo encontre XD
-[28Jul2025 09:49:27.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> aca abajo
-[28Jul2025 09:49:29.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
-[28Jul2025 09:49:48.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> estaba en -
-[28Jul2025 09:49:56.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ahi taa
-[28Jul2025 09:50:04.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Made GiovaniiYT15 no longer a server operator]
-[28Jul2025 09:50:14.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ou
-[28Jul2025 09:50:15.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pera
-[28Jul2025 09:50:32.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made GiovaniiYT15 a server operator
-[28Jul2025 09:50:45.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Removed every effect from 2 targets]
-[28Jul2025 09:50:47.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> listo
-[28Jul2025 09:50:52.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Spectator Mode]
-[28Jul2025 09:50:53.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
-[28Jul2025 09:51:08.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Made giovaniiiyt15 no longer a server operator]
-[28Jul2025 09:51:12.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Made GiovaniiYT15 no longer a server operator]
-[28Jul2025 09:51:32.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pq los sigo viendo
-[28Jul2025 09:51:36.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ya lo quite
-[28Jul2025 09:51:44.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> nop
-[28Jul2025 09:52:01.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ya hice /clear
-[28Jul2025 09:53:04.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> creo otra vez
-[28Jul2025 09:53:48.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made GiovaniiYT15 a server operator
-[28Jul2025 09:53:56.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> vamos?
-[28Jul2025 09:54:26.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> estan en negativos wbn
-[28Jul2025 09:55:21.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pongo spec?
-[28Jul2025 09:55:29.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y pvps abajo?
-[28Jul2025 09:55:37.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Made Nightmare73lb a server operator]
-[28Jul2025 09:55:42.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Spectator Mode]
-[28Jul2025 09:55:44.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nightmare73lb: Set own game mode to Spectator Mode]
-[28Jul2025 09:55:48.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
-[28Jul2025 09:55:52.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Spectator Mode]
-[28Jul2025 09:56:01.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> activa hitbox
-[28Jul2025 09:56:06.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> onde
-[28Jul2025 09:56:18.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nightmare73lb: Set own game mode to Survival Mode]
-[28Jul2025 09:56:21.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Teleported GiovaniiYT15 to Nightmare73lb]
-[28Jul2025 09:56:24.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
-[28Jul2025 09:56:32.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> no veo nada
-[28Jul2025 09:57:52.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nightmare73lb: Set own game mode to Spectator Mode]
-[28Jul2025 09:57:57.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Spectator Mode]
-[28Jul2025 09:58:08.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nightmare73lb: Set own game mode to Survival Mode]
-[28Jul2025 09:58:16.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nightmare73lb: Set own game mode to Spectator Mode]
-[28Jul2025 09:58:20.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nightmare73lb: Set own game mode to Survival Mode]
-[28Jul2025 09:58:30.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
-[28Jul2025 09:58:35.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> tan acaa
-[28Jul2025 09:59:02.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [I was here, i lived, i..]
-[28Jul2025 09:59:39.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> tienes comida
-[28Jul2025 10:00:18.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has completed the challenge [The Magicians]
-[28Jul2025 10:00:18.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [World of illusion]
-[28Jul2025 10:01:38.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> aca
-[28Jul2025 10:03:23.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> AHHEUVO
-[28Jul2025 10:03:41.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> SU PUTA MADRE
-[28Jul2025 10:03:41.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> xd
-[28Jul2025 10:03:51.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> listo
-[28Jul2025 10:04:00.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Made GiovaniiYT15 no longer a server operator]
-[28Jul2025 10:04:04.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> quitate del opXD
-[28Jul2025 10:04:12.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> deop
-[28Jul2025 10:04:16.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nightmare73lb: Made Nightmare73lb no longer a server operator]
-[28Jul2025 10:04:53.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ou
-[28Jul2025 10:04:59.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> buscaa
-[28Jul2025 10:05:02.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> el huevoo
-[28Jul2025 10:05:13.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> le di click derecho
-[28Jul2025 10:05:40.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ou
-[28Jul2025 10:05:45.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pzz
-[28Jul2025 10:05:47.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> nata
-[28Jul2025 10:05:49.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> anta
-[28Jul2025 10:06:40.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> revisaste aldeanos?
-[28Jul2025 10:06:52.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> no esta
-[28Jul2025 10:07:02.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pzz
-[28Jul2025 10:07:06.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> onde se fue
-[28Jul2025 10:07:34.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> culpa de este men
-[28Jul2025 10:07:46.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> arriba en ur arbol sera?
-[28Jul2025 10:08:10.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> nop
-[28Jul2025 10:08:56.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pzz
-[28Jul2025 10:09:00.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> si q se esonde bien
-[28Jul2025 10:09:27.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ANTAA
-[28Jul2025 10:09:43.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> CUANTOS TOTEM SACASTE?
-[28Jul2025 10:10:07.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pera
-[28Jul2025 10:10:11.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> wbn
-[28Jul2025 10:10:16.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ya a dormir no ?
-[28Jul2025 10:10:17.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XDD
-[28Jul2025 10:10:25.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ya se va a parar mi papa
-[28Jul2025 10:10:29.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> al trabajo
-[28Jul2025 10:10:30.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 10:10:48.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> lo dejo prendido?
-[28Jul2025 10:11:06.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> listp?
-[28Jul2025 10:11:45.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> tengo 11 totems
-[28Jul2025 10:11:46.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
-[28Jul2025 10:11:51.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare73lb lost connection: Disconnected
-[28Jul2025 10:11:51.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb left the game
-[28Jul2025 10:11:51.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 lost connection: Disconnected
-[28Jul2025 10:11:51.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 left the game
-[28Jul2025 10:11:51.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[28Jul2025 10:11:51.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[28Jul2025 10:11:51.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[28Jul2025 10:11:51.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[28Jul2025 10:11:52.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
-[28Jul2025 10:11:52.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[28Jul2025 10:11:52.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[28Jul2025 10:11:52.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
-[28Jul2025 10:11:52.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[28Jul2025 10:11:52.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
-[28Jul2025 10:11:52.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[28Jul2025 10:11:52.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[28Jul2025 10:11:52.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
-[28Jul2025 10:11:52.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[28Jul2025 10:11:52.381] [Server thread/INFO] [Framework/]: Unloading server configs...
-[28Jul2025 10:11:52.383] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[28Jul2025 21:17:18.446] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/LUXER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23195!/assets/.mcassetsroot' uses unexpected schema
+[28Jul2025 21:17:18.447] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/LUXER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23195!/data/.mcassetsroot' uses unexpected schema
+[28Jul2025 21:17:20.552] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[28Jul2025 21:17:21.244] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
+[28Jul2025 21:17:21.249] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
+[28Jul2025 21:17:21.277] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
+[28Jul2025 21:17:21.394] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1922 advancements
+[28Jul2025 21:17:21.397] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[28Jul2025 21:17:21.399] [main/INFO] [Dungeon Crawl/]: Loading data...
+[28Jul2025 21:17:21.649] [main/INFO] [Dungeon Crawl/]: Done.
+[28Jul2025 21:17:21.663] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 17 curio slots
+[28Jul2025 21:17:21.666] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 9 curio entities
+[28Jul2025 21:17:22.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[28Jul2025 21:17:22.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[28Jul2025 21:17:22.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[28Jul2025 21:17:22.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[28Jul2025 21:17:22.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[28Jul2025 21:17:22.233] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[28Jul2025 21:17:22.317] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[28Jul2025 21:17:22.317] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[28Jul2025 21:17:22.317] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[28Jul2025 21:17:22.317] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[28Jul2025 21:17:22.332] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[28Jul2025 21:17:22.467] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[28Jul2025 21:17:22.468] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[28Jul2025 21:17:22.468] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[28Jul2025 21:17:22.469] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[28Jul2025 21:17:22.469] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[28Jul2025 21:17:22.470] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[28Jul2025 21:17:22.470] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[28Jul2025 21:17:22.471] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[28Jul2025 21:17:22.471] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[28Jul2025 21:17:22.471] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[28Jul2025 21:17:22.487] [Server thread/INFO] [Explorations/]: Config 'explorations.json' was successfully loaded.
+[28Jul2025 21:17:22.488] [Server thread/INFO] [Explorations/]: Added statues to vanilla villages
+[28Jul2025 21:17:22.491] [Server thread/INFO] [Framework/]: Loading server configs...
+[28Jul2025 21:17:22.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[28Jul2025 21:17:22.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[28Jul2025 21:17:24.687] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 276342 ms
+[28Jul2025 21:17:24.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.358s)! For help, type "help"
+[28Jul2025 21:17:24.726] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[28Jul2025 21:17:24.762] [Server thread/WARN] [ModernFix/]: Dedicated server took 26.502 seconds to load
+[28Jul2025 21:17:47.838] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nightmare73lb[/127.125.1.66:60231] logged in with entity id 54 at (-1893.9368714673449, 63.0, 2933.368053461973)
+[28Jul2025 21:17:47.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb joined the game
+[28Jul2025 21:17:47.957] [Server thread/INFO] [Jade/]: Syncing config to Nightmare73lb (80c5e0bf-a90a-3ea0-a3b8-c3ff885f2d8e)
+[28Jul2025 21:18:10.385] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovaniiYT15[/127.188.109.205:34301] logged in with entity id 366 at (-1895.1375104025244, 63.0, 2931.714511709388)
+[28Jul2025 21:18:10.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 joined the game
+[28Jul2025 21:18:10.441] [Server thread/INFO] [Jade/]: Syncing config to GiovaniiYT15 (716504a6-70c1-3248-9807-9956be14b490)
+[28Jul2025 21:19:16.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made GiovaniiYT15 a server operator
+[28Jul2025 21:19:59.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Removed effect Glowing from 345 targets]
+[28Jul2025 21:20:08.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Made GiovaniiYT15 no longer a server operator]
+[28Jul2025 21:21:03.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare73lb lost connection: Timed out
+[28Jul2025 21:21:03.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb left the game
+[28Jul2025 21:21:03.226] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jul2025 21:26:32.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nightmare73lb[/127.205.190.144:35173] logged in with entity id 5290 at (-1883.8733640174423, 63.0, 2922.7544161820892)
+[28Jul2025 21:26:32.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb joined the game
+[28Jul2025 21:26:32.391] [Server thread/INFO] [Jade/]: Syncing config to Nightmare73lb (80c5e0bf-a90a-3ea0-a3b8-c3ff885f2d8e)
