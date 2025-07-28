@@ -6682,3 +6682,49 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 02:03:24.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Spooky Scary Skeleton]
 [28Jul2025 02:04:04.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Jul2025 02:04:04.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 02:05:33.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> moshtro111876
+[28Jul2025 02:05:34.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> vamos
+[28Jul2025 02:05:37.464] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1886.25, y=63.00, z=2944.61], dimensionLocationPath overworld
+[28Jul2025 02:05:37.464] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1886.25, y=63.00, z=2944.61] in list []
+[28Jul2025 02:05:37.465] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1886.25, y=63.00, z=2944.61]
+[28Jul2025 02:05:38.015] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1887.34, y=63.31, z=2947.55], dimensionLocationPath overworld
+[28Jul2025 02:05:38.015] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1887.34, y=63.31, z=2947.55] in list []
+[28Jul2025 02:05:38.015] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1887.34, y=63.01, z=2947.55]
+[28Jul2025 02:05:38.713] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1886.99, y=63.00, z=2946.28], dimensionLocationPath overworld
+[28Jul2025 02:05:38.713] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1886.99, y=63.00, z=2946.28] in list []
+[28Jul2025 02:05:38.714] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1886.99, y=63.00, z=2946.30]
+[28Jul2025 02:05:39.962] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1883.69, y=63.00, z=2947.22], dimensionLocationPath overworld
+[28Jul2025 02:05:39.962] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1883.69, y=63.00, z=2947.22] in list []
+[28Jul2025 02:05:39.963] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1883.69, y=62.94, z=2947.22]
+[28Jul2025 02:05:40.515] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1881.43, y=63.00, z=2949.72], dimensionLocationPath overworld
+[28Jul2025 02:05:40.515] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1881.43, y=63.00, z=2949.72] in list []
+[28Jul2025 02:05:40.515] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1881.43, y=63.00, z=2949.72]
+[28Jul2025 02:05:46.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> espera mrd
+[28Jul2025 02:05:53.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> N
+[28Jul2025 02:05:56.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ñiñiñi
+[28Jul2025 02:06:59.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ya?
+[28Jul2025 02:07:02.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ya merito?
+[28Jul2025 02:07:04.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ya?
+[28Jul2025 02:07:09.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> ven
+[28Jul2025 02:07:09.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ya merito de merito?
+[28Jul2025 02:07:38.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> Gooo
+[28Jul2025 02:08:57.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ya ?
+[28Jul2025 02:09:04.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 02:09:04.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 02:09:23.462] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1889.63, y=66.00, z=2932.31], dimensionLocationPath overworld
+[28Jul2025 02:09:23.462] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1889.63, y=66.00, z=2932.31] in list []
+[28Jul2025 02:09:23.462] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1889.63, y=66.00, z=2932.31]
+[28Jul2025 02:09:23.961] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1889.96, y=66.30, z=2930.66], dimensionLocationPath overworld
+[28Jul2025 02:09:23.961] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1889.96, y=66.30, z=2930.66] in list []
+[28Jul2025 02:09:23.961] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['GiovaniiYT15'/1147, l='ServerLevel[world]', x=-1889.96, y=66.08, z=2930.66]
+[28Jul2025 02:09:46.117] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['moshtro111876'/968, l='ServerLevel[world]', x=-1907.13, y=50.00, z=2917.09], dimensionLocationPath overworld
+[28Jul2025 02:09:46.117] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['moshtro111876'/968, l='ServerLevel[world]', x=-1907.13, y=50.00, z=2917.09] in list []
+[28Jul2025 02:09:48.464] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['moshtro111876'/968, l='ServerLevel[world]', x=-1906.26, y=50.74, z=2910.70]
+[28Jul2025 02:11:57.716] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['moshtro111876'/968, l='ServerLevel[world]', x=-1843.82, y=-21.00, z=2896.95], dimensionLocationPath overworld
+[28Jul2025 02:11:57.716] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['moshtro111876'/968, l='ServerLevel[world]', x=-1843.82, y=-21.00, z=2896.95] in list []
+[28Jul2025 02:11:57.778] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['moshtro111876'/968, l='ServerLevel[world]', x=-1843.99, y=-21.00, z=2897.06]
+[28Jul2025 02:13:30.646] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:jungle_temple/outside_stairs_chest
+[28Jul2025 02:13:30.647] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:jungle_temple/outside_stairs_empty
+[28Jul2025 02:14:04.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Jul2025 02:14:04.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Jul2025 02:14:16.981] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_12
