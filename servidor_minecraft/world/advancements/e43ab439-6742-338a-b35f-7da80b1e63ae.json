@@ -889,6 +889,7 @@
       "minecraft:spider": "2025-07-25 04:02:26 +0000",
       "minecraft:piglin_brute": "2025-07-26 20:30:14 +0000",
       "minecraft:creeper": "2025-07-25 05:59:19 +0000",
+      "minecraft:wither": "2025-07-28 02:36:02 +0000",
       "minecraft:zombified_piglin": "2025-07-26 21:10:14 +0000",
       "minecraft:wither_skeleton": "2025-07-25 04:02:08 +0000",
       "minecraft:husk": "2025-07-25 04:30:29 +0000",
@@ -3803,6 +3804,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-07-28 02:41:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-07-28 02:02:18 +0000"
@@ -3833,6 +3840,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-07-28 02:41:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
       "has_leather_boots": "2025-07-28 02:25:45 +0000"
@@ -3854,6 +3867,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-28 02:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_the_recipe": "2025-07-28 02:41:15 +0000"
     },
     "done": true
   },
