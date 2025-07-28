@@ -775,3 +775,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 04:31:07.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1015, y=15, z=2} BlockPos{x=-1016, y=14, z=6}
 [28Jul2025 04:31:07.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1015, y=15, z=2} BlockPos{x=-1016, y=14, z=6}
 [28Jul2025 04:31:24.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3670ms or 73 ticks behind
+[28Jul2025 04:38:08.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 was kicked for floating too long!
+[28Jul2025 04:38:08.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 lost connection: Disconnected
+[28Jul2025 04:38:08.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 left the game
+[28Jul2025 04:38:08.225] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Jul2025 04:38:54.024] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@65d0e67d[id=<null>,name=GiovaniiYT15,properties={},legacy=false] (/127.188.109.205:35413) lost connection: Disconnected
+[28Jul2025 04:39:13.622] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2616ca5b[id=<null>,name=GiovaniiYT15,properties={},legacy=false] (/127.188.109.205:35715) lost connection: Disconnected
+[28Jul2025 04:39:28.824] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a6b97b0[id=<null>,name=GiovaniiYT15,properties={},legacy=false] (/127.188.109.205:54229) lost connection: Disconnected
+[28Jul2025 04:40:00.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare73lb lost connection: Disconnected
+[28Jul2025 04:40:00.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb left the game
+[28Jul2025 04:40:02.223] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@827229d[id=<null>,name=GiovaniiYT15,properties={},legacy=false] (/127.188.109.205:46497) lost connection: Disconnected
+[28Jul2025 04:40:24.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Disconnected
+[28Jul2025 04:40:24.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[28Jul2025 04:40:24.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Jul2025 04:40:24.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Jul2025 04:40:24.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Jul2025 04:40:24.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Jul2025 04:40:25.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Jul2025 04:40:25.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[28Jul2025 04:40:25.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Jul2025 04:40:25.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[28Jul2025 04:40:25.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Jul2025 04:40:25.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jul2025 04:40:25.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[28Jul2025 04:40:25.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Jul2025 04:40:25.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[28Jul2025 04:40:25.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Jul2025 04:40:25.332] [Server thread/INFO] [Framework/]: Unloading server configs...
+[28Jul2025 04:40:25.333] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

@@ -3365,7 +3365,8 @@
   },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
-      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2025-07-28 04:09:08 +0000"
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2025-07-28 04:09:08 +0000",
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-07-28 04:34:50 +0000"
     },
     "done": false
   },
@@ -3539,6 +3540,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2025-07-28 04:34:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-07-28 03:49:21 +0000"
@@ -3707,6 +3714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-07-28 04:33:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-07-28 03:52:43 +0000"
@@ -3800,6 +3813,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-28 03:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-28 04:33:06 +0000"
     },
     "done": true
   },
