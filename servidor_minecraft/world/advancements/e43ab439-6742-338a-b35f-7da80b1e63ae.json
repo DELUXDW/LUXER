@@ -4634,9 +4634,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-07-28 04:16:47 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/netherite_pickaxe_repairing": {
     "criteria": {
       "has_netherite_pickaxe": "2025-07-28 03:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-07-28 04:16:47 +0000"
     },
     "done": true
   },
