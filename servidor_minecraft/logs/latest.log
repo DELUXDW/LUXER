@@ -396,3 +396,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [28Jul2025 02:53:35.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 fell from a high place
 [28Jul2025 02:54:39.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Don't Count Your Moas...]
 [28Jul2025 02:54:47.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Don't Count Your Moas...]
+[28Jul2025 02:56:06.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 was slain by Valkyrie
+[28Jul2025 02:56:13.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Cold as Ice]
+[28Jul2025 02:59:25.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has made the advancement [Cold as Ice]
+[28Jul2025 03:05:22.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has reached the goal [Dethroned]
+[28Jul2025 03:05:22.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 has reached the goal [Dethroned]
+[28Jul2025 03:05:22.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has reached the goal [Dethroned]

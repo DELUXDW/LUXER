@@ -3804,6 +3804,12 @@
     },
     "done": true
   },
+  "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2025-07-28 02:54:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2025-07-28 02:41:21 +0000"
@@ -3828,6 +3834,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/ice_pendant_from_freezing": {
+    "criteria": {
+      "has_pendant": "2025-07-28 02:55:15 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/blue_aercloud_freezing": {
     "criteria": {
       "has_cold_aercloud": "2025-07-28 02:48:40 +0000"
@@ -3849,6 +3861,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-28 02:11:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/ice_ring_from_freezing": {
+    "criteria": {
+      "has_ring": "2025-07-28 02:54:06 +0000"
     },
     "done": true
   },
@@ -3879,6 +3897,12 @@
   "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
       "has_leather_boots": "2025-07-28 02:25:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/ambrosium_torch": {
+    "criteria": {
+      "has_holystone_pickaxe": "2025-07-28 02:54:06 +0000"
     },
     "done": true
   },
@@ -3930,6 +3954,24 @@
     },
     "done": true
   },
+  "aether:recipes/food/moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2025-07-28 02:54:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/white_moa_incubation": {
+    "criteria": {
+      "has_white_moa_egg": "2025-07-28 02:54:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_pickaxe_repairing": {
+    "criteria": {
+      "has_holystone_pickaxe": "2025-07-28 02:54:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/swet_slime_block": {
     "criteria": {
       "has_swet_balls": "2025-07-28 02:49:49 +0000"
@@ -3939,6 +3981,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-28 02:11:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_pendant_repairing": {
+    "criteria": {
+      "has_zanite_pendant": "2025-07-28 02:55:15 +0000"
     },
     "done": true
   },
@@ -3993,6 +4041,12 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-07-28 02:33:10 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2025-07-28 02:54:39 +0000"
     },
     "done": true
   },
