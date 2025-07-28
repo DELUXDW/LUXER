@@ -325,6 +325,7 @@
       "minecraft:silverfish": "2025-07-25 04:08:15 +0000",
       "minecraft:stray": "2025-07-25 04:02:01 +0000",
       "minecraft:enderman": "2025-07-25 04:50:42 +0000",
+      "minecraft:endermite": "2025-07-28 02:00:05 +0000",
       "minecraft:zombie": "2025-07-25 03:21:11 +0000",
       "minecraft:drowned": "2025-07-25 07:06:06 +0000"
     },
@@ -2368,6 +2369,18 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-07-28 01:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-28 02:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-28 02:03:24 +0000"
     },
     "done": true
   },
