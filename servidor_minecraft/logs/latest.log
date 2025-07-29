@@ -225,3 +225,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 03:18:39.947] [Server thread/INFO] [Jade/]: Syncing config to Nightmare73lb (80c5e0bf-a90a-3ea0-a3b8-c3ff885f2d8e)
 [29Jul2025 03:19:37.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Straddle My Ol' Saddle]
 [29Jul2025 03:24:24.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has completed the challenge [Surf Wax America]
+[29Jul2025 03:30:51.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[29Jul2025 03:32:25.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [A Terrible Fortress]

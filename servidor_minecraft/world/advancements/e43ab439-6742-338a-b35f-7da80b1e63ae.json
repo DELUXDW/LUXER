@@ -890,6 +890,7 @@
       "minecraft:ghast": "2025-07-26 21:59:21 +0000",
       "minecraft:hoglin": "2025-07-26 20:27:20 +0000",
       "minecraft:vindicator": "2025-07-28 04:01:09 +0000",
+      "minecraft:magma_cube": "2025-07-29 03:22:19 +0000",
       "minecraft:spider": "2025-07-25 04:02:26 +0000",
       "minecraft:piglin_brute": "2025-07-26 20:30:14 +0000",
       "minecraft:creeper": "2025-07-25 05:59:19 +0000",
@@ -4957,6 +4958,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-07-29 03:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-29 03:26:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddleboard": {
+    "criteria": {
+      "straddleboard": "2025-07-29 03:24:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-07-29 03:18:13 +0000"
@@ -4972,6 +4991,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-07-29 03:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-29 03:26:00 +0000"
     },
     "done": true
   },
