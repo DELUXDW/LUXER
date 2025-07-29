@@ -235,3 +235,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 18:26:40.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> esto espacios
 [29Jul2025 18:26:41.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
 [29Jul2025 18:26:47.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> para mejorartela para que te quepan mas cosas ;V
+[29Jul2025 18:27:03.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ahorita que acabe
+[29Jul2025 18:27:10.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> es rapido ;v
+[29Jul2025 18:30:47.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> crees
+[29Jul2025 18:30:52.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> que cosa?
+[29Jul2025 18:30:52.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> que esto funcione?
+[29Jul2025 18:30:57.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> si
+[29Jul2025 18:31:00.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> hay de
+[29Jul2025 18:31:04.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> osea
+[29Jul2025 18:31:08.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> mira este mecanismo
+[29Jul2025 18:31:13.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> 50/50 que funcione ;v
+[29Jul2025 18:35:04.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3515, y=66, z=334} BlockPos{x=-3515, y=65, z=333}
+[29Jul2025 18:35:05.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3516, y=64, z=333} BlockPos{x=-3517, y=65, z=332}
+[29Jul2025 18:35:05.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3516, y=64, z=333} BlockPos{x=-3517, y=65, z=332}
+[29Jul2025 18:35:05.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3516, y=64, z=333} BlockPos{x=-3517, y=65, z=332}
+[29Jul2025 18:35:10.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3523, y=66, z=331} BlockPos{x=-3525, y=64, z=331}
+[29Jul2025 18:35:10.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3523, y=66, z=331} BlockPos{x=-3525, y=64, z=331}
+[29Jul2025 18:35:37.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> puedp poner el zombie en la vagoneta en creativo?
+[29Jul2025 18:35:38.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XDD
+[29Jul2025 18:35:43.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> si XD
+[29Jul2025 18:35:53.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> si quieres los aldeanos
+[29Jul2025 18:35:58.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> y lo digo de verdad ;v
+[29Jul2025 18:36:22.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[29Jul2025 18:36:27.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> duerme
+[29Jul2025 18:36:36.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> estoy en el nether
+[29Jul2025 18:36:52.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Creative Mode]
