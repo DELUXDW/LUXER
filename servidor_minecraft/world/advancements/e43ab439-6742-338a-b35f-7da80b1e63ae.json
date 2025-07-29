@@ -51,6 +51,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-07-29 09:16:36 +0000",
       "minecraft:windswept_savanna": "2025-07-25 04:52:41 +0000",
       "minecraft:warm_ocean": "2025-07-25 04:35:35 +0000",
+      "minecraft:flower_forest": "2025-07-29 09:52:13 +0000",
       "minecraft:frozen_peaks": "2025-07-29 04:12:50 +0000",
       "minecraft:meadow": "2025-07-29 09:12:58 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-29 09:18:48 +0000",
@@ -3029,7 +3030,8 @@
       "cataclysm:ender_guardian": "2025-07-28 05:59:47 +0000",
       "cataclysm:netherite_monstrosity": "2025-07-29 08:51:51 +0000",
       "cataclysm:the_harbinger": "2025-07-29 08:41:53 +0000",
-      "cataclysm:ignis": "2025-07-26 08:47:11 +0000"
+      "cataclysm:ignis": "2025-07-26 08:47:11 +0000",
+      "cataclysm:ancient_remnant": "2025-07-29 09:58:49 +0000"
     },
     "done": false
   },
@@ -5833,9 +5835,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+  "cataclysm:kill_monstrosity": {
     "criteria": {
-      "has_the_recipe": "2025-07-29 09:10:48 +0000"
+      "netheritemonstrosity": "2025-07-29 08:51:51 +0000"
     },
     "done": true
   },
@@ -5845,9 +5847,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/grizzly_bear": {
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
-      "killed_by": "2025-07-29 09:24:37 +0000"
+      "has_the_recipe": "2025-07-29 09:10:48 +0000"
     },
     "done": true
   },
@@ -5857,15 +5859,81 @@
     },
     "done": true
   },
-  "cataclysm:kill_monstrosity": {
+  "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
-      "netheritemonstrosity": "2025-07-29 08:51:51 +0000"
+      "killed_by": "2025-07-29 09:24:37 +0000"
     },
     "done": true
   },
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2025-07-29 09:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-29 09:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-29 09:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-29 09:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-29 09:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-07-29 09:52:44 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-07-29 10:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-07-29 09:52:44 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-07-29 09:58:49 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-07-29 10:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-07-29 09:52:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_light_blue_wool": {
+    "criteria": {
+      "has_light_blue_wool": "2025-07-29 09:52:44 +0000"
     },
     "done": true
   },
