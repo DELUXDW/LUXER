@@ -9450,3 +9450,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 11:08:30.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Jul2025 11:08:40.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set 100 experience levels on 2 players]
 [29Jul2025 11:08:43.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Survival Mode]
+[29Jul2025 11:09:43.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Creative Mode]
+[29Jul2025 11:09:52.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Survival Mode]
+[29Jul2025 11:11:37.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Gave 100 experience levels to 2 players]
+[29Jul2025 11:13:30.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 11:13:30.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 11:14:16.104] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27353, l='ServerLevel[world]', x=-207.48, y=-13.00, z=533.32, removed=DISCARDED]
+[29Jul2025 11:14:16.113] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27420, l='ServerLevel[world]', x=-239.33, y=28.00, z=570.38, removed=DISCARDED]
+[29Jul2025 11:14:16.114] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27298, l='ServerLevel[world]', x=-193.36, y=-13.00, z=464.61, removed=DISCARDED]
+[29Jul2025 11:14:16.114] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27303, l='ServerLevel[world]', x=-195.81, y=-19.00, z=425.84, removed=DISCARDED]
+[29Jul2025 11:14:16.114] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27373, l='ServerLevel[world]', x=-212.12, y=-7.00, z=498.13, removed=DISCARDED]
+[29Jul2025 11:14:16.114] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27438, l='ServerLevel[world]', x=-241.15, y=43.00, z=292.33, removed=DISCARDED]
+[29Jul2025 11:14:16.114] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27377, l='ServerLevel[world]', x=-211.33, y=-7.00, z=498.77, removed=DISCARDED]
+[29Jul2025 11:14:16.114] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27441, l='ServerLevel[world]', x=-239.78, y=43.00, z=292.34, removed=DISCARDED]
+[29Jul2025 11:14:16.114] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27316, l='ServerLevel[world]', x=-194.75, y=-19.00, z=426.22, removed=DISCARDED]
+[29Jul2025 11:14:16.160] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27406, l='ServerLevel[world]', x=-240.43, y=28.00, z=570.96, removed=DISCARDED]
+[29Jul2025 11:14:16.160] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27347, l='ServerLevel[world]', x=-206.59, y=-14.00, z=532.13, removed=DISCARDED]
+[29Jul2025 11:14:16.160] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27301, l='ServerLevel[world]', x=-194.58, y=-19.00, z=425.23, removed=DISCARDED]
+[29Jul2025 11:14:16.160] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27238, l='ServerLevel[world]', x=-192.62, y=-14.00, z=488.81, removed=DISCARDED]
+[29Jul2025 11:18:30.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 11:18:30.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
