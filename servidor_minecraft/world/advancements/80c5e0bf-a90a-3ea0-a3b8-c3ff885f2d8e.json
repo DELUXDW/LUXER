@@ -5690,21 +5690,33 @@
     },
     "done": true
   },
-  "cataclysm:kill_remnant": {
-    "criteria": {
-      "ignis": "2025-07-29 10:00:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "has_sherd": "2025-07-29 09:57:13 +0000"
     },
     "done": false
   },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-07-29 10:00:30 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_ignis": {
     "criteria": {
       "ignis": "2025-07-29 10:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-07-29 10:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-07-29 10:15:23 +0000"
     },
     "done": true
   },

@@ -5901,27 +5901,9 @@
     },
     "done": true
   },
-  "cataclysm:find_burning_arena": {
-    "criteria": {
-      "arena": "2025-07-29 10:03:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_banner": {
     "criteria": {
       "has_light_blue_wool": "2025-07-29 09:52:44 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_remnant": {
-    "criteria": {
-      "ignis": "2025-07-29 09:58:49 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_revenant": {
-    "criteria": {
-      "endergolem": "2025-07-29 10:04:30 +0000"
     },
     "done": true
   },
@@ -5934,6 +5916,24 @@
   "aether:recipes/combat/blue_cape_light_blue_wool": {
     "criteria": {
       "has_light_blue_wool": "2025-07-29 09:52:44 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-07-29 09:58:49 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-07-29 10:03:44 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-07-29 10:04:30 +0000"
     },
     "done": true
   },
