@@ -263,3 +263,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 17:47:05.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1872, y=7, z=2896} BlockPos{x=-1871, y=6, z=2896}
 [29Jul2025 17:47:12.118] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/7448, l='ServerLevel[world]', x=-2032.22, y=85.76, z=2669.20]
 [29Jul2025 17:47:12.118] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/7453, l='ServerLevel[world]', x=-2048.02, y=76.00, z=2656.66]
+[29Jul2025 17:56:42.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> vikvu
+[29Jul2025 17:56:43.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[29Jul2025 17:56:51.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> XD
+[29Jul2025 17:57:03.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> tienes pico con fortuna?
+[29Jul2025 17:57:08.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> si
+[29Jul2025 17:57:14.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> pasa
+[29Jul2025 17:57:16.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> en uno de los cofre
+[29Jul2025 17:57:17.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ay uno
+[29Jul2025 17:57:24.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> ya lo vi
+[29Jul2025 17:57:28.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> de nda
+[29Jul2025 17:58:52.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ptmadre
+[29Jul2025 17:59:01.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pasa un compostador
+[29Jul2025 17:59:01.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[29Jul2025 17:59:05.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> se me quemo
