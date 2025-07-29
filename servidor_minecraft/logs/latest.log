@@ -233,3 +233,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 02:50:18.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1861, y=57, z=2963} BlockPos{x=-1861, y=58, z=2963}
 [29Jul2025 02:50:21.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1862, y=58, z=2963} BlockPos{x=-1861, y=57, z=2963}
 [29Jul2025 02:50:22.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1863, y=58, z=2962} BlockPos{x=-1863, y=57, z=2962}
+[29Jul2025 02:51:17.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1864, y=58, z=2954} BlockPos{x=-1864, y=59, z=2954}
+[29Jul2025 02:53:54.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1867, y=59, z=2933} BlockPos{x=-1867, y=60, z=2933}
+[29Jul2025 02:54:57.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1864, y=59, z=2923} BlockPos{x=-1864, y=60, z=2923}
+[29Jul2025 03:02:58.493] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[29Jul2025 03:02:58.499] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[29Jul2025 03:06:16.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-214, y=69, z=-27} BlockPos{x=-214, y=69, z=-28}
+[29Jul2025 03:06:16.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-214, y=69, z=-27} BlockPos{x=-214, y=69, z=-28}
+[29Jul2025 03:06:16.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-214, y=69, z=-27} BlockPos{x=-214, y=69, z=-28}
+[29Jul2025 03:08:07.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare73lb lost connection: Disconnected
+[29Jul2025 03:08:07.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb left the game
