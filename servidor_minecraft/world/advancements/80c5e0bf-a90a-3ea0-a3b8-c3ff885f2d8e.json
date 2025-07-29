@@ -4236,7 +4236,8 @@
   "cataclysm:kill_all_bosses": {
     "criteria": {
       "cataclysm:ender_guardian": "2025-07-28 06:12:23 +0000",
-      "cataclysm:netherite_monstrosity": "2025-07-29 06:40:53 +0000"
+      "cataclysm:netherite_monstrosity": "2025-07-29 06:40:53 +0000",
+      "cataclysm:the_harbinger": "2025-07-29 08:42:53 +0000"
     },
     "done": false
   },
@@ -5565,6 +5566,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-07-29 07:57:36 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-07-29 08:42:53 +0000"
     },
     "done": true
   },
