@@ -264,3 +264,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 10:46:10.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Creative Mode]
 [29Jul2025 10:46:13.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Spectator Mode]
 [29Jul2025 10:46:13.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Creative Mode]
+[29Jul2025 11:04:04.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Smells Interesting]
+[29Jul2025 11:04:10.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Smells Interesting]
+[29Jul2025 11:08:40.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set 100 experience levels on 2 players]
+[29Jul2025 11:08:43.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Survival Mode]

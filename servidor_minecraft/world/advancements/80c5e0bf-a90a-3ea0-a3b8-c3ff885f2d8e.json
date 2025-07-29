@@ -5720,5 +5720,17 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_stack_upgrade_tier_1": "2025-07-29 10:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2025-07-29 11:04:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
