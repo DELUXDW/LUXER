@@ -318,3 +318,26 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 04:32:38.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> como van
 [29Jul2025 04:32:48.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> por bot
 [29Jul2025 04:33:01.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> cuanta polvo va?
+[29Jul2025 04:56:05.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> todo bine
+[29Jul2025 04:56:09.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ?
+[29Jul2025 04:56:10.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[29Jul2025 04:56:15.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ya ahi polvora?
+[29Jul2025 04:56:38.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> nopo
+[29Jul2025 05:07:42.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [No Step on Snake]
+[29Jul2025 05:10:04.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 was kicked for floating too long!
+[29Jul2025 05:10:04.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Disconnected
+[29Jul2025 05:10:04.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[29Jul2025 05:10:04.190] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jul2025 05:10:10.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:37145] logged in with entity id 56280 at (-1513.7910010743853, 73.73094421392057, 1696.7054142110512)
+[29Jul2025 05:10:10.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[29Jul2025 05:10:10.077] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[29Jul2025 05:11:46.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Ant Farm]
+[29Jul2025 05:12:57.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 was kicked for floating too long!
+[29Jul2025 05:12:57.448] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Flying is not enabled on this server
+[29Jul2025 05:12:57.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[29Jul2025 05:13:01.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:50753] logged in with entity id 60715 at (-1525.924631820393, 65.21295987890836, 1582.3442629961858)
+[29Jul2025 05:13:01.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
+[29Jul2025 05:13:01.372] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[29Jul2025 05:18:00.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Mariachi?]
+[29Jul2025 05:22:36.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Ant Farm]
+[29Jul2025 05:22:47.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Ant-Agonizer]

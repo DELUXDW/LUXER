@@ -24,6 +24,7 @@
       "minecraft:lush_caves": "2025-07-25 03:34:17 +0000",
       "minecraft:desert": "2025-07-25 03:13:21 +0000",
       "minecraft:jungle": "2025-07-25 05:01:52 +0000",
+      "minecraft:ocean": "2025-07-29 05:08:43 +0000",
       "minecraft:windswept_savanna": "2025-07-25 04:52:17 +0000",
       "minecraft:warm_ocean": "2025-07-25 03:21:15 +0000",
       "minecraft:plains": "2025-07-25 05:09:44 +0000"
@@ -4959,6 +4960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-07-29 04:56:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-07-29 03:52:50 +0000"
@@ -5004,6 +5011,12 @@
   "friendsandfoes:recipes/redstone/copper_button": {
     "criteria": {
       "has_copper_ingot": "2025-07-29 04:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-07-29 04:56:11 +0000"
     },
     "done": true
   },
