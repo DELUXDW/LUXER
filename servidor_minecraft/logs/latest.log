@@ -341,3 +341,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 05:18:00.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Mariachi?]
 [29Jul2025 05:22:36.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [Ant Farm]
 [29Jul2025 05:22:47.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Ant-Agonizer]
+[29Jul2025 05:33:12.042] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/78076, l='ServerLevel[world]', x=-1878.99, y=-157.82, z=2940.06] died, message: 'Unemployed fell out of the world'
+[29Jul2025 05:43:24.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1919, y=62, z=2923} BlockPos{x=-1921, y=65, z=2923}
