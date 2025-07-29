@@ -223,3 +223,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 19:51:23.138] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
 [29Jul2025 19:53:03.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Applied effect Bad Omen to moshtro111876]
 [29Jul2025 19:53:28.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set the time to 1000]
+[29Jul2025 20:14:05.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set the weather to clear]
