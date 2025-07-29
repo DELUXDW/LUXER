@@ -6430,3 +6430,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 19:16:26.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> si aparecen
 [29Jul2025 19:17:05.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jul2025 19:17:05.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 19:22:05.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 19:22:05.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 19:27:05.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 19:27:05.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
