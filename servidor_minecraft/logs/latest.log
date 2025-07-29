@@ -227,3 +227,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 03:24:24.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has completed the challenge [Surf Wax America]
 [29Jul2025 03:30:51.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [29Jul2025 03:32:25.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb has made the advancement [A Terrible Fortress]
+[29Jul2025 03:44:04.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1213, y=57, z=-325} BlockPos{x=-1219, y=70, z=-303}
+[29Jul2025 03:44:04.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1213, y=57, z=-325} BlockPos{x=-1219, y=70, z=-303}
+[29Jul2025 03:44:04.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1213, y=57, z=-325} BlockPos{x=-1219, y=70, z=-303}
+[29Jul2025 03:44:05.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1213, y=57, z=-325} BlockPos{x=-1219, y=70, z=-303}
+[29Jul2025 03:44:05.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1213, y=57, z=-325} BlockPos{x=-1219, y=70, z=-303}
+[29Jul2025 03:44:05.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1213, y=57, z=-325} BlockPos{x=-1219, y=70, z=-303}
