@@ -253,3 +253,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 21:09:04.565] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2800, l='ServerLevel[world]', x=-1785.05, y=132.56, z=2973.52] died, message: 'Unemployed was slain by GiovaniiYT15'
 [29Jul2025 21:09:08.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Spectator Mode]
 [29Jul2025 21:09:27.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Creative Mode]
+[29Jul2025 21:17:56.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 moved too quickly! 0.0,-12.924330121295071,0.0
+[29Jul2025 21:19:20.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Spectator Mode]
+[29Jul2025 21:19:24.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Creative Mode]
+[29Jul2025 21:20:52.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Applied effect Bad Omen to moshtro111876]
+[29Jul2025 21:21:14.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Applied effect Strength to moshtro111876]
+[29Jul2025 21:21:18.276] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6232, l='ServerLevel[world]', x=-1878.18, y=-191.66, z=2938.26] died, message: 'Unemployed fell out of the world'
