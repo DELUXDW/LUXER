@@ -5732,5 +5732,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-07-29 11:33:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
