@@ -6004,12 +6004,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2025-07-29 16:30:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-07-29 16:30:04 +0000"
@@ -6031,6 +6025,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-07-29 16:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-07-29 16:30:26 +0000"
     },
     "done": true
   },
