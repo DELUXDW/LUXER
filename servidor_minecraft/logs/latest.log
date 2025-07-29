@@ -331,3 +331,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 18:57:17.611] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/15972, l='ServerLevel[world]', x=-1848.70, y=91.54, z=2871.70] died, message: 'Farmer was slain by moshtro111876'
 [29Jul2025 18:57:17.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pq?
 [29Jul2025 18:57:36.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> aver quita los aldeanos
+[29Jul2025 18:57:40.922] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/16094, l='ServerLevel[world]', x=-1848.64, y=91.49, z=2871.30] died, message: 'Farmer was slain by GiovaniiYT15'
+[29Jul2025 18:57:42.366] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16120, l='ServerLevel[world]', x=-1848.15, y=91.00, z=2871.85] died, message: 'Unemployed was slain by GiovaniiYT15'
+[29Jul2025 18:57:46.567] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16095, l='ServerLevel[world]', x=-1847.16, y=91.56, z=2870.47] died, message: 'Unemployed was slain by GiovaniiYT15'
+[29Jul2025 18:58:06.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> ya
+[29Jul2025 18:58:12.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> god
+[29Jul2025 18:58:13.712] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/8176, l='ServerLevel[world]', x=-1831.30, y=91.94, z=2854.30] died, message: 'Farmer was slain by GiovaniiYT15'
+[29Jul2025 18:58:14.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/8154, l='ServerLevel[world]', x=-1831.30, y=91.76, z=2854.70] died, message: 'Farmer was slain by GiovaniiYT15'
+[29Jul2025 18:58:15.712] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/8084, l='ServerLevel[world]', x=-1831.30, y=91.67, z=2854.70] died, message: 'Farmer was slain by GiovaniiYT15'
+[29Jul2025 18:58:24.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> osea ya quite a los menes
+[29Jul2025 18:58:27.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> y ahora que
+[29Jul2025 19:01:31.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7905, l='ServerLevel[world]', x=-1852.70, y=62.05, z=2877.70] died, message: 'Unemployed was slain by MMAHUEVO'
+[29Jul2025 19:02:06.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18292, l='ServerLevel[world]', x=-1831.85, y=91.68, z=2871.85] died, message: 'Unemployed was slain by GiovaniiYT15'
+[29Jul2025 19:02:11.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['MMAHUEVO'/18250, l='ServerLevel[world]', x=-1831.68, y=91.97, z=2867.70] died: MMAHUEVO was slain by GiovaniiYT15
+[29Jul2025 19:02:38.666] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18421, l='ServerLevel[world]', x=-1830.70, y=91.51, z=2869.15] died, message: 'Unemployed was slain by GiovaniiYT15'
+[29Jul2025 19:02:53.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17762, l='ServerLevel[world]', x=-1848.30, y=92.52, z=2871.70] died, message: 'Unemployed was slain by GiovaniiYT15'
+[29Jul2025 19:04:23.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18436, l='ServerLevel[world]', x=-1828.90, y=62.51, z=2867.19] died, message: 'Unemployed was slain by MMAHUEVO'
+[29Jul2025 19:04:34.272] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/17735, l='ServerLevel[world]', x=-1848.70, y=91.53, z=2871.30] died, message: 'Farmer was slain by GiovaniiYT15'
+[29Jul2025 19:04:36.571] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19258, l='ServerLevel[world]', x=-1848.30, y=91.49, z=2871.30] died, message: 'Unemployed was slain by GiovaniiYT15'
+[29Jul2025 19:04:53.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19186, l='ServerLevel[world]', x=-1848.85, y=91.63, z=2871.85] died, message: 'Unemployed was slain by GiovaniiYT15'
+[29Jul2025 19:05:08.674] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19233, l='ServerLevel[world]', x=-1848.50, y=91.56, z=2869.15] died, message: 'Unemployed was slain by GiovaniiYT15'
+[29Jul2025 19:06:18.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> me rindo con esa granja de mrd
+[29Jul2025 19:06:22.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> tXD
+[29Jul2025 19:06:22.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> hubiera echo la otra
+[29Jul2025 19:07:14.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> de los 4
+[29Jul2025 19:07:17.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> XD
+[29Jul2025 19:07:19.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> si ;v
+[29Jul2025 19:07:21.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> solo un puto modulo funciona alv
+[29Jul2025 19:07:35.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> que te dijimos we
