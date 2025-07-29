@@ -281,3 +281,39 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 04:15:56.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nightmare73lb> ?
 [29Jul2025 04:16:14.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has made the advancement [Voluntary Exile]
 [29Jul2025 04:21:47.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has completed the challenge [The Magicians]
+[29Jul2025 04:27:21.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:21.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:21.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.321] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:22.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:23.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:23.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:23.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:23.162] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:23.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:23.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:23.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:23.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:27:23.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1921, y=28, z=2891} BlockPos{x=-1920, y=27, z=2891}
+[29Jul2025 04:28:14.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 has reached the goal [Postmortal]
+[29Jul2025 04:28:49.439] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/223, l='ServerLevel[world]', x=-1894.52, y=63.00, z=2934.52] died, message: 'Toolsmith was shot by Illusioner'
+[29Jul2025 04:32:38.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> como van
+[29Jul2025 04:32:48.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> por bot
