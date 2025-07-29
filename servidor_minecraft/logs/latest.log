@@ -229,3 +229,37 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 17:35:04.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> no ozz
 [29Jul2025 17:35:05.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> :V
 [29Jul2025 17:35:23.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XD
+[29Jul2025 17:41:12.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> pera
+[29Jul2025 17:41:17.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> estare afk
+[29Jul2025 17:41:19.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/664, l='ServerLevel[world]', x=-1894.65, y=63.56, z=2935.88] died, message: 'Toolsmith was shot by Illusioner'
+[29Jul2025 17:41:21.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 was killed by Iceologer using magic
+[29Jul2025 17:41:22.214] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/673, l='ServerLevel[world]', x=-1896.33, y=63.94, z=2941.13] died, message: 'Librarian was shot by Illusioner'
+[29Jul2025 17:41:25.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> XDDDD
+[29Jul2025 17:41:28.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/672, l='ServerLevel[world]', x=-1899.07, y=63.56, z=2938.44] died, message: 'Fletcher was shot by Illusioner'
+[29Jul2025 17:41:31.168] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/667, l='ServerLevel[world]', x=-1899.05, y=63.56, z=2936.90] died, message: 'Librarian was shot by Illusioner'
+[29Jul2025 17:41:39.460] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/659, l='ServerLevel[world]', x=-1891.64, y=63.00, z=2940.42] died, message: 'Librarian was shot by Illusioner'
+[29Jul2025 17:41:49.602] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/700, l='ServerLevel[world]', x=-1895.30, y=63.00, z=2913.70] died, message: 'Librarian froze to death'
+[29Jul2025 17:42:03.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 was killed by Iceologer using magic
+[29Jul2025 17:42:37.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 was slain by Vex
+[29Jul2025 17:42:40.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> NAA
+[29Jul2025 17:42:43.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> YO HICE TODO
+[29Jul2025 17:42:52.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> faltan ;V
+[29Jul2025 17:42:54.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> xd
+[29Jul2025 17:43:16.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> TRIPLE
+[29Jul2025 17:43:17.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> xddd
+[29Jul2025 17:43:32.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> BUENO DEJA voy a hacer una recarga
+[29Jul2025 17:43:33.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> me one shoteo el iceloger porque si
+[29Jul2025 17:43:41.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> bueno ;V
+[29Jul2025 17:43:44.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> eres debil
+[29Jul2025 17:43:58.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <moshtro111876> tenia totem
+[29Jul2025 17:47:00.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1890, y=25, z=2897} BlockPos{x=-1892, y=27, z=2896}
+[29Jul2025 17:47:02.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1884, y=19, z=2897} BlockPos{x=-1883, y=18, z=2897}
+[29Jul2025 17:47:02.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1884, y=19, z=2897} BlockPos{x=-1883, y=18, z=2897}
+[29Jul2025 17:47:02.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1884, y=19, z=2897} BlockPos{x=-1883, y=18, z=2897}
+[29Jul2025 17:47:02.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1884, y=19, z=2897} BlockPos{x=-1883, y=18, z=2897}
+[29Jul2025 17:47:02.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1881, y=17, z=2897} BlockPos{x=-1883, y=18, z=2897}
+[29Jul2025 17:47:05.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1872, y=7, z=2896} BlockPos{x=-1871, y=6, z=2896}
+[29Jul2025 17:47:05.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1872, y=7, z=2896} BlockPos{x=-1871, y=6, z=2896}
+[29Jul2025 17:47:05.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1872, y=7, z=2896} BlockPos{x=-1871, y=6, z=2896}
+[29Jul2025 17:47:12.118] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/7448, l='ServerLevel[world]', x=-2032.22, y=85.76, z=2669.20]
+[29Jul2025 17:47:12.118] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/7453, l='ServerLevel[world]', x=-2048.02, y=76.00, z=2656.66]
