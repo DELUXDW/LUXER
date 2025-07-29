@@ -230,3 +230,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 20:33:55.005] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/207, l='ServerLevel[world]', x=-1899.35, y=63.56, z=2933.65] died, message: 'Librarian was shot by Illusioner'
 [29Jul2025 20:34:03.808] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/204, l='ServerLevel[world]', x=-1898.86, y=63.56, z=2939.98] died, message: 'Librarian was shot by Illusioner'
 [29Jul2025 20:34:07.503] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/203, l='ServerLevel[world]', x=-1893.60, y=63.56, z=2939.38] died, message: 'Weaponsmith was shot by Illusioner'
+[29Jul2025 20:37:11.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Spectator Mode]
+[29Jul2025 20:37:27.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
+[29Jul2025 20:37:29.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Creative Mode]
+[29Jul2025 20:37:50.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Spectator Mode]
+[29Jul2025 20:38:02.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Survival Mode]
+[29Jul2025 20:38:03.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Creative Mode]
+[29Jul2025 20:38:07.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Spectator Mode]
+[29Jul2025 20:38:13.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Creative Mode]
+[29Jul2025 20:38:15.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Spectator Mode]
+[29Jul2025 20:38:21.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Creative Mode]
+[29Jul2025 20:38:22.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Spectator Mode]
+[29Jul2025 20:38:26.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Set own game mode to Creative Mode]
+[29Jul2025 20:40:46.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GiovaniiYT15: Teleported moshtro111876 to GiovaniiYT15]
+[29Jul2025 20:45:22.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovaniiYT15 lost connection: Disconnected
+[29Jul2025 20:45:22.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 left the game
+[29Jul2025 20:45:25.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovaniiYT15[/127.188.109.205:42507] logged in with entity id 6561 at (-1786.059132487882, 133.38419072293735, 2951.2941537092174)
+[29Jul2025 20:45:25.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovaniiYT15 joined the game
+[29Jul2025 20:45:25.598] [Server thread/INFO] [Jade/]: Syncing config to GiovaniiYT15 (716504a6-70c1-3248-9807-9956be14b490)

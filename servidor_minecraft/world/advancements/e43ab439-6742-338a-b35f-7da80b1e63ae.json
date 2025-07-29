@@ -6153,5 +6153,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-29 20:40:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
