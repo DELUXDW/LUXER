@@ -317,3 +317,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 04:28:49.439] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/223, l='ServerLevel[world]', x=-1894.52, y=63.00, z=2934.52] died, message: 'Toolsmith was shot by Illusioner'
 [29Jul2025 04:32:38.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> como van
 [29Jul2025 04:32:48.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> por bot
+[29Jul2025 04:33:01.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GiovaniiYT15> cuanta polvo va?
