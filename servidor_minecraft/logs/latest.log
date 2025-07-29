@@ -351,3 +351,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 06:03:36.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1887, y=60, z=2949} BlockPos{x=-1887, y=60, z=2948}
 [29Jul2025 06:03:36.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1887, y=60, z=2949} BlockPos{x=-1887, y=60, z=2948}
 [29Jul2025 06:06:07.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1885, y=55, z=2947} BlockPos{x=-1887, y=57, z=2947}
+[29Jul2025 06:21:47.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare73lb lost connection: Disconnected
+[29Jul2025 06:21:47.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb left the game
