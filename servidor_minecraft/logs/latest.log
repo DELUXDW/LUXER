@@ -222,3 +222,45 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 10:18:37.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: moshtro111876[/127.173.215.32:54079] logged in with entity id 263 at (-1874.586985608496, 63.0, 2949.2645586491676)
 [29Jul2025 10:18:37.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 joined the game
 [29Jul2025 10:18:37.732] [Server thread/INFO] [Jade/]: Syncing config to moshtro111876 (e43ab439-6742-338a-b35f-7da80b1e63ae)
+[29Jul2025 10:32:21.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 was consumed by the flames
+[29Jul2025 10:32:22.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb was consumed by the flames
+[29Jul2025 10:32:33.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 was consumed by the flames
+[29Jul2025 10:32:42.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb was slain by Ignis
+[29Jul2025 10:32:50.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 was consumed by the flames
+[29Jul2025 10:32:59.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb was slain by Ignis
+[29Jul2025 10:33:13.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 was slain by Ignis
+[29Jul2025 10:33:18.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb was slain by Ignis
+[29Jul2025 10:33:36.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 was slain by Ignis
+[29Jul2025 10:33:39.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb was slain by Ignis
+[29Jul2025 10:33:48.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 was slain by Ignis
+[29Jul2025 10:34:48.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb was slain by Ignis
+[29Jul2025 10:35:17.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb was slain by Ignis
+[29Jul2025 10:35:27.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb was slain by Ignis
+[29Jul2025 10:35:35.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb was slain by Ignis
+[29Jul2025 10:36:12.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb was slain by Ignis
+[29Jul2025 10:36:39.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare73lb moved too quickly! -8.819086169341062,0.0,5.261576243152376
+[29Jul2025 10:36:47.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb tried to swim in lava
+[29Jul2025 10:37:00.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb was slain by Ignis
+[29Jul2025 10:38:46.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb was slain by Ignis
+[29Jul2025 10:38:51.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 was slain by Ignis
+[29Jul2025 10:39:18.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nightmare73lb lost connection: Disconnected
+[29Jul2025 10:39:18.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb left the game
+[29Jul2025 10:43:25.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 tried to swim in lava
+[29Jul2025 10:43:51.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 was slain by Ignis
+[29Jul2025 10:44:21.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made moshtro111876 a server operator
+[29Jul2025 10:44:31.384] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nightmare73lb[/127.125.1.66:51461] logged in with entity id 25030 at (-2350.302335544361, 69.0, -2251.325524526515)
+[29Jul2025 10:44:31.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb joined the game
+[29Jul2025 10:44:31.392] [Server thread/INFO] [Jade/]: Syncing config to Nightmare73lb (80c5e0bf-a90a-3ea0-a3b8-c3ff885f2d8e)
+[29Jul2025 10:44:39.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb was doomed to fall
+[29Jul2025 10:44:51.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Creative Mode]
+[29Jul2025 10:45:16.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 was killed
+[29Jul2025 10:45:16.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Killed moshtro111876]
+[29Jul2025 10:45:22.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb was slain by Ignis
+[29Jul2025 10:45:31.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Teleported moshtro111876 to Nightmare73lb]
+[29Jul2025 10:45:51.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb was killed
+[29Jul2025 10:45:51.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 was killed
+[29Jul2025 10:45:51.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Killed 213 entities]
+[29Jul2025 10:46:08.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Spectator Mode]
+[29Jul2025 10:46:10.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Creative Mode]
+[29Jul2025 10:46:13.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Spectator Mode]
+[29Jul2025 10:46:13.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [moshtro111876: Set own game mode to Creative Mode]
