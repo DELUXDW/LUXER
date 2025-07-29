@@ -22,6 +22,7 @@
       "minecraft:sparse_jungle": "2025-07-25 04:13:24 +0000",
       "minecraft:river": "2025-07-25 03:19:41 +0000",
       "minecraft:lukewarm_ocean": "2025-07-25 04:59:38 +0000",
+      "minecraft:stony_shore": "2025-07-29 16:11:05 +0000",
       "minecraft:dripstone_caves": "2025-07-26 22:13:56 +0000",
       "minecraft:grove": "2025-07-29 06:50:09 +0000",
       "minecraft:forest": "2025-07-28 01:34:53 +0000",
@@ -4219,6 +4220,30 @@
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2025-07-29 08:00:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-07-29 15:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-29 15:56:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-07-29 16:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-29 16:15:26 +0000"
     },
     "done": true
   },
