@@ -7551,3 +7551,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Jul2025 11:39:22.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nightmare73lb left the game
 [29Jul2025 11:40:10.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: moshtro111876 lost connection: Disconnected
 [29Jul2025 11:40:10.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: moshtro111876 left the game
+[29Jul2025 11:42:59.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 11:42:59.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 11:47:59.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 11:47:59.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
